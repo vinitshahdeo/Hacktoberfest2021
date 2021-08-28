@@ -88,7 +88,7 @@ All you need to know is an inspirational quote! Voila, you're just a step away f
 
 ## Need help
 
-Are you a beginner looking for a help in kickstaring your open-source journey? Start a discussion here. The community will be always welcome your doubts.
+Are you a beginner looking for a help in kickstaring your open-source journey? [Start a discussion here](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1). The community will always welcome your doubts!
 
 ## Support
 

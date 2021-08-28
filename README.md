@@ -4,7 +4,7 @@
 
 Here's a handpicked list of **beginner-friendly issues** (& repositories) ahead of time so that you can get the ball rolling once Hacktoberfest kicks off!
 
-❯ [Your First PR](Your-First-PR) 🚀 
+❯ [Your First PR](#your-first-pr) 🚀 
 
 ❯ [Ask Your Doubts](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1) 💬
 

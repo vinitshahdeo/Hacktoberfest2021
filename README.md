@@ -6,7 +6,7 @@
 
 Here's a handpicked list of **beginner-friendly issues** (& repositories) ahead of time so that you can get the ball rolling once Hacktoberfest kicks off!
 
-## First-timers issues
+## Beginner-friendly issues
 
 | Repository| Link to Issue  | Language  |
 |:--|:--|:--|

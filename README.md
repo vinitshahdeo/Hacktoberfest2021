@@ -82,7 +82,7 @@ All you need to know is an inspirational quote! Voila, you're just a step away f
 
 ## Contributing
 
-- Feel free to raise a PR to add beginner-friendly issues (& repos).
+- Feel free to [raise a PR](https://github.com/vinitshahdeo/Hacktoberfest2021/pulls) to add beginner-friendly issues (& repos).
 - Resolve the beginner's queries here
 
 ## Need help

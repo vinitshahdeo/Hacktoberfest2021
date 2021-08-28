@@ -2,9 +2,13 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&style=flat)](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/master/LICENSE)
 
-🚀 [Your First PR](Your-First-PR) ❯ 💬 [Ask Your Doubts](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1)
-
 Here's a handpicked list of **beginner-friendly issues** (& repositories) ahead of time so that you can get the ball rolling once Hacktoberfest kicks off!
+
+❯ [Your First PR](Your-First-PR) 🚀 
+
+❯ [Ask Your Doubts](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1) 💬
+
+Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) challenge!
 
 ## Beginner-friendly issues
 

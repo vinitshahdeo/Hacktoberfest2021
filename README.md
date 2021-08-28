@@ -7,7 +7,7 @@
 ## Beginner-friendly repositories
 
 | Repository  | Issues  | Pull Requests  | Forks |
-|---|---|---|---|
+|:--|:--|:--|:--|
 | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)  | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/inspirational-quotes?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/inspirational-quotes/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/inspirational-quotes?style=social&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/inspirational-quotes?style=flat-square&logo=git)](https://github.com/vinitshahdeo/inspirational-quotes/network) |
 | [jobtweets](https://github.com/vinitshahdeo/jobtweets/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/jobtweets?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/jobtweets/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/jobtweets?style=social&logo=github)](https://github.com/vinitshahdeo/jobtweets/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/jobtweets?style=flat-square&logo=git)](https://github.com/vinitshahdeo/jobtweets/network) |
 | [Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Email-Signature-Template?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Email-Signature-Template/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Email-Signature-Template?style=social&logo=github)](https://github.com/vinitshahdeo/Email-Signature-Template/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Email-Signature-Template?style=flat-square&logo=git)](https://github.com/vinitshahdeo/Email-Signature-Template/network) |
@@ -32,45 +32,45 @@
 ## First-timers issues
 
 | Repository| Link to Issue  | Language  |
-|---|---|---|
-| [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)  | JavaScript  |
-| [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Configure ESLint](https://github.com/vinitshahdeo/inspirational-quotes/issues/277)  | JavaScript  |
-| [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Test to avoid repetition of Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/120)  | JavaScript  |
-| [jobtweets](https://github.com/vinitshahdeo/jobtweets/) | [Taking query(#hashtags) as input from user](https://github.com/vinitshahdeo/jobtweets/issues/3)  | Python |
-| [jobtweets](https://github.com/vinitshahdeo/jobtweets/) | [[Pie Chart] Graphical representation of the results](https://github.com/vinitshahdeo/jobtweets/issues/28)  | Python |
-| [Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) | [Add some more template](https://github.com/vinitshahdeo/Email-Signature-Template/issues/1)  | HTML, CSS  |
-| [Hackathon-Timer](https://github.com/vinitshahdeo/Hackathon-Timer) | [Use GitHub webhooks](https://github.com/vinitshahdeo/Hackathon-Timer/issues/1)  | NodeJS  |
-| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Prompt a confirmation before clearing all cookies](https://github.com/vinitshahdeo/Cookie-Manager/issues/5)  | JavaScript |
-| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Delete cookies for a single domain](https://github.com/vinitshahdeo/Cookie-Manager/issues/4) | JavaScript  |
-| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Display cookies based on the filter i.e. regex(say github.com)](https://github.com/vinitshahdeo/Cookie-Manager/issues/3) | JavaScript  |
-| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Refactor code in background.js](https://github.com/vinitshahdeo/Cookie-Manager/issues/12) | JavaScript  |
-| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [[Documentation Missing] Add JSDoc](https://github.com/vinitshahdeo/Cookie-Manager/issues/13) | JavaScript  |
-| [Quotter](https://github.com/vinitshahdeo/Quotter/) | [Auto follower (Follow for Follow)](https://github.com/vinitshahdeo/Quotter/issues/6)  | NodeJS  |
+|:--|:--|:--|
+| [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)  | `JavaScript`  |
+| [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Configure ESLint](https://github.com/vinitshahdeo/inspirational-quotes/issues/277)  | `JavaScript`  |
+| [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Test to avoid repetition of Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/120)  | `JavaScript`  |
+| [jobtweets](https://github.com/vinitshahdeo/jobtweets/) | [Taking query(#hashtags) as input from user](https://github.com/vinitshahdeo/jobtweets/issues/3)  | `Python` |
+| [jobtweets](https://github.com/vinitshahdeo/jobtweets/) | [[Pie Chart] Graphical representation of the results](https://github.com/vinitshahdeo/jobtweets/issues/28)  | `Python` |
+| [Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) | [Add some more template](https://github.com/vinitshahdeo/Email-Signature-Template/issues/1)  | `HTML` `CSS`  |
+| [Hackathon-Timer](https://github.com/vinitshahdeo/Hackathon-Timer) | [Use GitHub webhooks](https://github.com/vinitshahdeo/Hackathon-Timer/issues/1)  | `NodeJS`  |
+| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Prompt a confirmation before clearing all cookies](https://github.com/vinitshahdeo/Cookie-Manager/issues/5)  | `JavaScript` |
+| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Delete cookies for a single domain](https://github.com/vinitshahdeo/Cookie-Manager/issues/4) | `JavaScript`  |
+| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Display cookies based on the filter i.e. regex(say github.com)](https://github.com/vinitshahdeo/Cookie-Manager/issues/3) | `JavaScript`  |
+| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Refactor code in background.js](https://github.com/vinitshahdeo/Cookie-Manager/issues/12) | `JavaScript`  |
+| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [[Documentation Missing] Add JSDoc](https://github.com/vinitshahdeo/Cookie-Manager/issues/13) | `JavaScript`  |
+| [Quotter](https://github.com/vinitshahdeo/Quotter/) | [Auto follower (Follow for Follow)](https://github.com/vinitshahdeo/Quotter/issues/6)  | `NodeJS`  |
 | [Quotter](https://github.com/vinitshahdeo/Quotter/) | [Adding a feature to DM the quotes to all the followers](https://github.com/vinitshahdeo/Quotter/issues/5)  | NodeJS  |
-| [Quotter](https://github.com/vinitshahdeo/Quotter/) | [.gitignore is missing](https://github.com/vinitshahdeo/Quotter/issues/12)  | NodeJS  |
-| [SimpleBio](https://github.com/vinitshahdeo/SimpleBio)  | [Add more templates](https://github.com/vinitshahdeo/SimpleBio/issues/4)  | HTML, CSS, JS  |
-| [HBD](https://github.com/vinitshahdeo/HBD/) | [Coder's Way of Wishing Happy Birthday](https://github.com/vinitshahdeo/HBD/issues/1)  | Any Language  |
-| [Hashtagify](https://github.com/vinitshahdeo/Hashtagify) | [Suggest #Hashtags for Video](https://github.com/vinitshahdeo/Hashtagify/issues/3)  | JavaScript  |
-| [online-debate-system](https://github.com/vinitshahdeo/online-debate-system) | [UI Improvements](https://github.com/vinitshahdeo/online-debate-system/issues/3)  | HTML, CSS, JS |
-| [MiniYouTube](https://github.com/vinitshahdeo/MiniYouTube) | [Add ESLint](https://github.com/vinitshahdeo/MiniYouTube/issues/1)  | React |
-| [TwitterSentimentAnalysis](https://github.com/vinitshahdeo/TwitterSentimentAnalysis) | [[HacktoberFest] UI Improvements](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/issues/1)  | PHP |
-| [ProgressiveNewsApp](https://github.com/vinitshahdeo/ProgressiveNewsApp) | [Sort news on the basis of popularity and Date published](https://github.com/vinitshahdeo/ProgressiveNewsApp/issues/3)  | JavaScript |
-| [ProgressiveNewsApp](https://github.com/vinitshahdeo/ProgressiveNewsApp) | [UI Improvements](https://github.com/vinitshahdeo/ProgressiveNewsApp/issues/5)  | CSS |
-| [ProgressiveNewsApp](https://github.com/vinitshahdeo/ProgressiveNewsApp) | [Add Date published in News Card](https://github.com/vinitshahdeo/ProgressiveNewsApp/issues/4)  | HTML, JavaScript |
-| [Map Of India](https://github.com/vinitshahdeo/Map-of-India/) | [Union territories are missing from the Map of India](https://github.com/vinitshahdeo/Map-of-India/issues/1)  | Node.js |
-| [Map Of India](https://github.com/vinitshahdeo/Map-of-India/) | [Add a script to print the National Flag of India :india:](https://github.com/vinitshahdeo/Map-of-India/issues/4)  | Node.js |
-| [Map Of India](https://github.com/vinitshahdeo/Map-of-India/) | [Just border of Map of India](https://github.com/vinitshahdeo/Map-of-India/issues/2)  | Node.js |
-| [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [List content overflows from the container](https://github.com/vinitshahdeo/myFaculty/issues/1)  | CSS |
-| [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [UI improvisation](https://github.com/vinitshahdeo/myFaculty/issues/2)  | React |
-| [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [Responsive UI](https://github.com/vinitshahdeo/myFaculty/issues/3)  | CSS |
-| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [UI Enhancements](https://github.com/vinitshahdeo/water-monitoring-system/issues/2)  | HTML, CSS, JS |
-| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Project Documentation](https://github.com/vinitshahdeo/water-monitoring-system/issues/3)  | Markdown |
-| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Setting up Cloud APIs to send/receive data](https://github.com/vinitshahdeo/water-monitoring-system/issues/4)  | Node.js, MongoDB |
-| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Admin Dashboard](https://github.com/vinitshahdeo/water-monitoring-system/issues/5)  | HTML, CSS, JS |
-| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Notify stakeholders](https://github.com/vinitshahdeo/water-monitoring-system/issues/6)  | Node.js |
-| [Recruitment Portal](https://github.com/vinitshahdeo/Recruitment-Portal/) | [Put a timer for quizzes](https://github.com/vinitshahdeo/covid19api/issues/2)  | PHP, JavaScript |
-| [covid19api](https://github.com/vinitshahdeo/covid19api/) | [Add a query to latest data for COVID-19 cases](https://github.com/vinitshahdeo/covid19api/issues/5)  | GraphQL |
-| [covid19api](https://github.com/vinitshahdeo/covid19api/) | [Add a query to get particular state data](https://github.com/vinitshahdeo/covid19api/issues/6)  | GraphQL |
+| [Quotter](https://github.com/vinitshahdeo/Quotter/) | [.gitignore is missing](https://github.com/vinitshahdeo/Quotter/issues/12)  | `NodeJS`  |
+| [SimpleBio](https://github.com/vinitshahdeo/SimpleBio)  | [Add more templates](https://github.com/vinitshahdeo/SimpleBio/issues/4)  | `HTML` `CSS` `JS`  |
+| [HBD](https://github.com/vinitshahdeo/HBD/) | [Coder's Way of Wishing Happy Birthday](https://github.com/vinitshahdeo/HBD/issues/1)  | **Any Language**  |
+| [Hashtagify](https://github.com/vinitshahdeo/Hashtagify) | [Suggest #Hashtags for Video](https://github.com/vinitshahdeo/Hashtagify/issues/3)  | `JavaScript`  |
+| [online-debate-system](https://github.com/vinitshahdeo/online-debate-system) | [UI Improvements](https://github.com/vinitshahdeo/online-debate-system/issues/3)  | `HTML` `CSS` `JS` |
+| [MiniYouTube](https://github.com/vinitshahdeo/MiniYouTube) | [Add ESLint](https://github.com/vinitshahdeo/MiniYouTube/issues/1)  | `React` |
+| [TwitterSentimentAnalysis](https://github.com/vinitshahdeo/TwitterSentimentAnalysis) | [[HacktoberFest] UI Improvements](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/issues/1)  | `PHP` |
+| [ProgressiveNewsApp](https://github.com/vinitshahdeo/ProgressiveNewsApp) | [Sort news on the basis of popularity and Date published](https://github.com/vinitshahdeo/ProgressiveNewsApp/issues/3)  | `JavaScript` |
+| [ProgressiveNewsApp](https://github.com/vinitshahdeo/ProgressiveNewsApp) | [UI Improvements](https://github.com/vinitshahdeo/ProgressiveNewsApp/issues/5)  | `CSS` |
+| [ProgressiveNewsApp](https://github.com/vinitshahdeo/ProgressiveNewsApp) | [Add Date published in News Card](https://github.com/vinitshahdeo/ProgressiveNewsApp/issues/4)  | `HTML` `JavaScript` |
+| [Map Of India](https://github.com/vinitshahdeo/Map-of-India/) | [Union territories are missing from the Map of India](https://github.com/vinitshahdeo/Map-of-India/issues/1)  | `Node.js` |
+| [Map Of India](https://github.com/vinitshahdeo/Map-of-India/) | [Add a script to print the National Flag of India :india:](https://github.com/vinitshahdeo/Map-of-India/issues/4)  | `Node.js` |
+| [Map Of India](https://github.com/vinitshahdeo/Map-of-India/) | [Just border of Map of India](https://github.com/vinitshahdeo/Map-of-India/issues/2)  | `Node.js` |
+| [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [List content overflows from the container](https://github.com/vinitshahdeo/myFaculty/issues/1)  | `CSS` |
+| [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [UI improvisation](https://github.com/vinitshahdeo/myFaculty/issues/2)  | `React` |
+| [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [Responsive UI](https://github.com/vinitshahdeo/myFaculty/issues/3)  | `CSS` |
+| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [UI Enhancements](https://github.com/vinitshahdeo/water-monitoring-system/issues/2)  | `HTML` `CSS` `JS` |
+| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Project Documentation](https://github.com/vinitshahdeo/water-monitoring-system/issues/3)  | `Markdown` |
+| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Setting up Cloud APIs to send/receive data](https://github.com/vinitshahdeo/water-monitoring-system/issues/4)  | `Node.js` `MongoDB` |
+| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Admin Dashboard](https://github.com/vinitshahdeo/water-monitoring-system/issues/5)  | `HTML` `CSS` `JS` |
+| [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Notify stakeholders](https://github.com/vinitshahdeo/water-monitoring-system/issues/6)  | `Node.js` |
+| [Recruitment Portal](https://github.com/vinitshahdeo/Recruitment-Portal/) | [Put a timer for quizzes](https://github.com/vinitshahdeo/covid19api/issues/2)  | `PHP` `JavaScript` |
+| [covid19api](https://github.com/vinitshahdeo/covid19api/) | [Add a query to latest data for COVID-19 cases](https://github.com/vinitshahdeo/covid19api/issues/5)  | `GraphQL` |
+| [covid19api](https://github.com/vinitshahdeo/covid19api/) | [Add a query to get particular state data](https://github.com/vinitshahdeo/covid19api/issues/6)  | `GraphQL` |
 
 ## Your First PR
 

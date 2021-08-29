@@ -12,6 +12,8 @@ Here's a handpicked list of **beginner-friendly issues** (& repositories) ahead 
 
 ❯ [Find your mentor](./MENTORS.md) 🤝
 
+❯ [Become mentor](#contributing) 🙌
+
 Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) challenge!
 
 ## Beginner-friendly issues
@@ -93,10 +95,12 @@ All you need to know is an inspirational quote! Voila, you're just a step away f
 ## Contributing
 
 - Feel free to [raise a PR](https://github.com/vinitshahdeo/Hacktoberfest2021/pulls) to add beginner-friendly issues (& repos).
+    - Kindly follow [this format](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/.github/PULL_REQUEST_TEMPLATE/ADD_NEW_ISSUE.md) to raise the PR
 
 - Resolve the beginner's queries [here](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1).
 
-- Are you willing to be a mentor to help beginners? [Raise a pull request]() to add your name to [`MENTORS.md`](./MENTORS.md).
+- Are you willing to be a mentor to help beginners? **Raise a pull request** to add your name to [`MENTORS.md`](./MENTORS.md).
+    - Kindly follow [this format](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/.github/PULL_REQUEST_TEMPLATE/ADD_NEW_MENTOR.md) to raise the PR.
 
 ## Need help
 

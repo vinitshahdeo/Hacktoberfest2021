@@ -12,6 +12,8 @@ Here's a handpicked list of **beginner-friendly issues** (& repositories) ahead 
 
 ❯ [Find your mentor](./MENTORS.md) 🤝
 
+> [Become a mentor]()
+
 Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) challenge!
 
 ## Beginner-friendly issues

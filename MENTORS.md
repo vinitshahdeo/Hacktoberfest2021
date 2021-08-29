@@ -3,3 +3,4 @@
 - [Kashish](https://github.com/kashish121)
 - [Ishika Dubey](https://github.com/ishika1727/)
 - [Aman Kumar](https://github.com/thisisamank)
+- [Pranjal Bareth](https://github.com/PranjalBareth)

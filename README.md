@@ -12,7 +12,7 @@ Here's a handpicked list of **beginner-friendly issues** (& repositories) ahead 
 
 ❯ [Find your mentor](./MENTORS.md) 🤝
 
-❯ [Become mentor](#mentoring) 🙌
+❯ [Become a mentor](#mentoring) 🙌
 
 Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) challenge!
 

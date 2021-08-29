@@ -12,7 +12,7 @@ Here's a handpicked list of **beginner-friendly issues** (& repositories) ahead 
 
 ❯ [Find your mentor](./MENTORS.md) 🤝
 
-❯ [Become mentor](#contributing) 🙌
+❯ [Become mentor](#mentoring) 🙌
 
 Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) challenge!
 
@@ -91,7 +91,6 @@ All you need to know is an inspirational quote! Voila, you're just a step away f
 
 [![inspirational-quotes](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=inspirational-quotes)](https://github.com/vinitshahdeo/inspirational-quotes)
 
-
 ## Contributing
 
 - Feel free to [raise a PR](https://github.com/vinitshahdeo/Hacktoberfest2021/pulls) to add beginner-friendly issues (& repos).
@@ -101,6 +100,21 @@ All you need to know is an inspirational quote! Voila, you're just a step away f
 
 - Are you willing to be a mentor to help beginners? **Raise a pull request** to add your name to [`MENTORS.md`](./MENTORS.md).
     - Kindly follow [this format](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/.github/PULL_REQUEST_TEMPLATE/ADD_NEW_MENTOR.md) to raise the PR.
+
+## Mentoring
+
+If you're interested to become a mentor to help beginners kickstart their open-source journey, **please submit your details [here](https://forms.gle/ejsMiFFuHbQbpGNGA)**.
+
+As a mentor, you will:
+
+🙏  **resolve beginner's doubts**
+
+👍 **share beginner-friendly issues (& repositories)**.
+
+💬 **engage with other community members**.
+
+🤝 **welcome and help others to finish the Hacktoberfest challenge**.
+
 
 ## Need help
 

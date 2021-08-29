@@ -10,6 +10,8 @@ Here's a handpicked list of **beginner-friendly issues** (& repositories) ahead 
 
 ❯ [Share on Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FHacktoberfest2021&via=Vinit_Shahdeo&text=Here%27s%20a%20handpicked%20list%20of%20beginner-friendly%20issues%20%28%26%20repositories%29%20ahead%20of%20time%20so%20that%20you%20can%20get%20the%20ball%20rolling%20once%20Hacktoberfest%20kicks%20off%21%21&hashtags=Hacktoberfest%2Copensource%2Chacktoberfest2021%2CyourfirstPR) 📣
 
+❯ [Find your mentor](./MENTORS.md) 🤝
+
 Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) challenge!
 
 ## Beginner-friendly issues
@@ -94,9 +96,13 @@ All you need to know is an inspirational quote! Voila, you're just a step away f
 
 - Resolve the beginner's queries [here](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1).
 
+- Are you willing to be a mentor to help beginners? [Raise a pull request]() to add your name to [`MENTORS.md`](./MENTORS.md).
+
 ## Need help
 
 Are you a beginner looking for a help in kickstaring your open-source journey? [Start a discussion here](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1). The community will always welcome your doubts! Watch this repo, I will keep adding new beginner-friendly issues.
+
+Additionally, you can reach out to the mentors to get 1:1 help to resolve your queries. **Find your mentor [here](./MENTORS.md)**.
 
 ## Support
 

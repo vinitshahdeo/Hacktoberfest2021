@@ -18,7 +18,7 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 
 ## Beginner-friendly issues
 
-| Repository| Link to Issue  | Language  |
+| Repository| Link to Issue  | Language |
 |:--|:--|:--|
 | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)  | `JavaScript`  |
 | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Configure ESLint](https://github.com/vinitshahdeo/inspirational-quotes/issues/277)  | `JavaScript`  |
@@ -58,6 +58,7 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | [Recruitment Portal](https://github.com/vinitshahdeo/Recruitment-Portal/) | [Put a timer for quizzes](https://github.com/vinitshahdeo/covid19api/issues/2)  | `PHP` `JavaScript` |
 | [covid19api](https://github.com/vinitshahdeo/covid19api/) | [Add a query to latest data for COVID-19 cases](https://github.com/vinitshahdeo/covid19api/issues/5)  | `GraphQL` |
 | [covid19api](https://github.com/vinitshahdeo/covid19api/) | [Add a query to get particular state data](https://github.com/vinitshahdeo/covid19api/issues/6)  | `GraphQL` |
+| [Resizrr](https://github.com/thisisamank/resizrr/) | [Add dark mode to `resizrr` app.](https://github.com/thisisamank/resizrr/issues/4) | `Dart` `Flutter` |
 
 ## Beginner-friendly repositories
 
@@ -82,6 +83,7 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | [covid19api](https://github.com/vinitshahdeo/covid19api) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/covid19api?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/covid19api/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/covid19api?style=social&logo=github)](https://github.com/vinitshahdeo/covid19api/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/covid19api?style=flat-square&logo=git)](https://github.com/vinitshahdeo/covid19api/network) |
 | [myFaculty](https://github.com/vinitshahdeo/myFaculty) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/myFaculty?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/myFaculty/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/myFaculty?style=social&logo=github)](https://github.com/vinitshahdeo/myFaculty/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/myFaculty?style=flat-square&logo=git)](https://github.com/vinitshahdeo/myFaculty/network) |
 | [Recruitment Portal](https://github.com/vinitshahdeo/Recruitment-Portal) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Recruitment-Portal?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Recruitment-Portal/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Recruitment-Portal?style=social&logo=github)](https://github.com/vinitshahdeo/Recruitment-Portal/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Recruitment-Portal?style=flat-square&logo=git)](https://github.com/vinitshahdeo/myFaculty/network) |
+| [Resizrr](https://github.com/thisisamank/resizrr/) | [![GitHub issues](https://img.shields.io/github/issues/thisisamank/resizrr?color=red&logo=github&style=flat-square)](https://github.com/thisisamank/resizrr) | [![GitHub PRs](https://img.shields.io/github/issues-pr/thisisamank/resizrr?style=social&logo=github)](https://github.com/thisisamank/resizrr/pulls) | [![GitHub forks](https://img.shields.io/github/forks/thisisamank/resizrr?style=flat-square&logo=git)](https://github.com/thisisamank/resizrr/) |
 
 ## Your First PR
 

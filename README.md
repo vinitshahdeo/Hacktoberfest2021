@@ -36,10 +36,10 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | [Caucus](https://github.com/Rishabh-malhotraa/caucus/) | [Adding Zen Mode](https://github.com/Rishabh-malhotraa/caucus/issues/8) | `TypeScript`  |
 | [Caucus](https://github.com/Rishabh-malhotraa/caucus/) | [Improving Contrast on Hover](https://github.com/Rishabh-malhotraa/caucus/issues/30) | `CSS`  |
 | [Quotter](https://github.com/vinitshahdeo/Quotter/) | [Auto follower (Follow for Follow)](https://github.com/vinitshahdeo/Quotter/issues/6)  | `NodeJS`  |
-| [Quotter](https://github.com/vinitshahdeo/Quotter/) | [Adding a feature to DM the quotes to all the followers](https://github.com/vinitshahdeo/Quotter/issues/5)  | NodeJS  |
+| [Quotter](https://github.com/vinitshahdeo/Quotter/) | [Adding a feature to DM the quotes to all the followers](https://github.com/vinitshahdeo/Quotter/issues/5)  | `NodeJS` |
 | [Quotter](https://github.com/vinitshahdeo/Quotter/) | [.gitignore is missing](https://github.com/vinitshahdeo/Quotter/issues/12)  | `NodeJS`  |
 | [SimpleBio](https://github.com/vinitshahdeo/SimpleBio)  | [Add more templates](https://github.com/vinitshahdeo/SimpleBio/issues/4)  | `HTML` `CSS` `JS`  |
-| [HBD](https://github.com/vinitshahdeo/HBD/) | [Coder's Way of Wishing Happy Birthday](https://github.com/vinitshahdeo/HBD/issues/1)  | **Any Language**  |
+| [HBD](https://github.com/vinitshahdeo/HBD/) | [Coder's Way of Wishing Happy Birthday](https://github.com/vinitshahdeo/HBD/issues/1)  | `Any Language` |
 | [Hashtagify](https://github.com/vinitshahdeo/Hashtagify) | [Suggest #Hashtags for Video](https://github.com/vinitshahdeo/Hashtagify/issues/3)  | `JavaScript`  |
 | [online-debate-system](https://github.com/vinitshahdeo/online-debate-system) | [UI Improvements](https://github.com/vinitshahdeo/online-debate-system/issues/3)  | `HTML` `CSS` `JS` |
 | [MiniYouTube](https://github.com/vinitshahdeo/MiniYouTube) | [Add ESLint](https://github.com/vinitshahdeo/MiniYouTube/issues/1)  | `React` |

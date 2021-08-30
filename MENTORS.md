@@ -13,3 +13,4 @@
 | Rishabh Malhotra | :mortar_board: [LinkedIn](https://www.linkedin.com/in/rishabh-malhotra-4536a418b/) | [@Rishabh-malhotraa](https://github.com/Rishabh-malhotraa) | Incomng intern at Amercian Express. |
 | Himanshu Sharma | 🐦[Twitter](https://twitter.com/_SharmaHimanshu) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/himanshusharma89/) | [@Himanshusharma89](https://github.com/himanshusharma89) | SWE intern at Vymo. |
 | Parth Limbad | 🐦[Twitter](https://twitter.com/iamparthlimbad) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/iamparthlimbad/) | [@parthlimbad](https://github.com/parthlimbad) | Software Engineer at Mobio Solutions. |
+| Utkarsh Mishra | 🐦[Twitter](https://twitter.com/umishra1504) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/umishra-1504/) | [@utkarsh1504](https://github.com/utkarsh1504) | Open-Source Activist |

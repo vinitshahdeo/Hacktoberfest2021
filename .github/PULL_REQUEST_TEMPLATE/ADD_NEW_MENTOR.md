@@ -3,6 +3,7 @@
 - Name: <Add your name here>
 - LinkedIn: <Add link to your Linkedin profile>
 - Twitter: <Add link to your Twitter profile>
+- About: <Short bio about you>
 
 ### Why do you want to become a mentor (optional)
 

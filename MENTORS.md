@@ -11,3 +11,5 @@
 |      Aman Kumar       | :bird: [Twitter](https://twitter.com/thisisaman01) <br>:mortar_board: [LinkedIn](https://www.linkedin.com/in/thisisamank/) | [@thisisamank](https://github.com/thisisamank/) |  |
 | Lucky Sharma | :mortar_board: [LinkedIn](https://www.linkedin.com/in/lucky-sharma/) | [@MighTguY](https://github.com/MighTguY) | Technical Lead Search at Securonix. |
 | Rishabh Malhotra | :mortar_board: [LinkedIn](https://www.linkedin.com/in/rishabh-malhotra-4536a418b/) | [@Rishabh-malhotraa](https://github.com/Rishabh-malhotraa) | Incomng intern at Amercian Express. |
+| Himanshu Sharma | 🐦[Twitter](https://twitter.com/_SharmaHimanshu) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/himanshusharma89/) | [@Himanshusharma89](https://github.com/himanshusharma89) | SWE intern at Vymo. |
+

@@ -15,4 +15,5 @@
 | 12. | Parth Limbad | 🐦[Twitter](https://twitter.com/iamparthlimbad) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/iamparthlimbad/) | [@parthlimbad](https://github.com/parthlimbad) | Software Engineer at Mobio Solutions. |
 | 13. | Utkarsh Mishra | 🐦[Twitter](https://twitter.com/umishra1504) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/umishra-1504/) | [@utkarsh1504](https://github.com/utkarsh1504) | Open-Source Activist |
 | 14. | Shreshth Arora | 🐦[Twitter](https://twitter.com/AroraShreshth) <br /> 🎓[LinkedIn](https://www.linkedin.com/in/shreshtharora/) | [@AroraShreshth](https://github.com/AroraShreshth) | Blockchain Developer |
+| 15. | Aditya Jha | 🐦[Twitter](https://twitter.com/AdityaJha_1504) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/aditya-jha-b66545191/) | [@Aditya-Jha2002](https://github.com/Aditya-Jha2002) | GDSC Lead MAIT |
 

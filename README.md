@@ -1,6 +1,6 @@
 # Hacktoberfest 2021
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&style=flat)](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/master/LICENSE)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&style=flat)](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/master/LICENSE) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FHacktoberfest2021&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://vinitshahdeo.github.io/Hacktoberfest2021/)
 
 Here's a handpicked list of **beginner-friendly issues** (& repositories) ahead of time so that you can get the ball rolling once Hacktoberfest kicks off! 🚀
 

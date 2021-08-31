@@ -17,4 +17,4 @@
 | 14. | Shreshth Arora | 🐦[Twitter](https://twitter.com/AroraShreshth) <br /> 🎓[LinkedIn](https://www.linkedin.com/in/shreshtharora/) | [@AroraShreshth](https://github.com/AroraShreshth) | Blockchain Developer |
 | 15. | Aditya Jha | 🐦[Twitter](https://twitter.com/AdityaJha_1504) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/aditya-jha-b66545191/) | [@Aditya-Jha2002](https://github.com/Aditya-Jha2002) | GDSC Lead MAIT |
 | 16. | Manvi Jha | 🐦[Twitter](https://twitter.com/Manvi13J) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/manvi-jha-2784711a7/) | [@Severus-Matthew](https://github.com/Severus-Matthew) | Curious Lerner and Developer |
-
+| 17. | Ashwin Hariharan | 🐦[Twitter](https://twitter.com/booleanhunter) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/iyerashwinhariharan/) | [@booleanhunter](https://github.com/booleanhunter) | Software Engineer | Blogger |

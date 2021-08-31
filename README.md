@@ -37,7 +37,7 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | [Caucus](https://github.com/Rishabh-malhotraa/caucus/) | [Refactoring Code](https://github.com/Rishabh-malhotraa/caucus/issues/22) | `TypeScript`  |
 | [Caucus](https://github.com/Rishabh-malhotraa/caucus/) | [Adding Zen Mode](https://github.com/Rishabh-malhotraa/caucus/issues/8) | `TypeScript`  |
 | [Caucus](https://github.com/Rishabh-malhotraa/caucus/) | [Improving Contrast on Hover](https://github.com/Rishabh-malhotraa/caucus/issues/30) | `CSS`  |
-| [DSA-Java](https://github.com/utkarsh1504/DSA-Java/) | [new lesson: Introduction to Arrays](https://github.com/utkarsh1504/DSA-Java/issues/1) | `Java`,`Images`,`Mardown` |
+| [DSA-Java](https://github.com/utkarsh1504/DSA-Java/) | [new lesson: Introduction to Arrays](https://github.com/utkarsh1504/DSA-Java/issues/1) | `Java`,`Markdown`,`Images` |
 | [Quotter](https://github.com/vinitshahdeo/Quotter/) | [Auto follower (Follow for Follow)](https://github.com/vinitshahdeo/Quotter/issues/6)  | `NodeJS`  |
 | [Quotter](https://github.com/vinitshahdeo/Quotter/) | [Adding a feature to DM the quotes to all the followers](https://github.com/vinitshahdeo/Quotter/issues/5)  | `NodeJS` |
 | [Quotter](https://github.com/vinitshahdeo/Quotter/) | [.gitignore is missing](https://github.com/vinitshahdeo/Quotter/issues/12)  | `NodeJS`  |

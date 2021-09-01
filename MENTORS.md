@@ -23,3 +23,4 @@
 | 20. | Udit Sen | 🐦[Twitter](https://twitter.com/aeditme) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/aedit/) | [@aedit](https://github.com/aedit) | SDE UI 1 @ CommerceIQ, Core Team @ GDG Indore |
 | 21. | Riddhi Suteri | 🐦[Twitter](https://twitter.com/ridsuteri) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/riddhi-suteri/) | [@ridsuteri](https://github.com/ridsuteri) | Full Stack Web Developer, Mentor @ GirlScript Foundation |
 | 22. | Deepak Verma | 🐦[Twitter](https://twitter.com/deeqakkk) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/deeqakkk/) | [@deeqakkk](https://github.com/deeqakkk) | Full Stack Web Developer, Mentor @ GWOC'21 |
+| 23. | Kanak | 🐦[Twitter](https://twitter.com/kanak2212?s=90) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/kanak-a21384186/) | [@kanak22](https://github.com/kanak22) | Full Stack Web Developer and open-source enthusiast |

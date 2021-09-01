@@ -19,3 +19,4 @@
 | 16. | Manvi Jha | 🐦[Twitter](https://twitter.com/Manvi13J) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/manvi-jha-2784711a7/) | [@Severus-Matthew](https://github.com/Severus-Matthew) | Curious Lerner and Developer |
 | 17. | Ashwin Hariharan | 🐦[Twitter](https://twitter.com/booleanhunter) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/iyerashwinhariharan/) | [@booleanhunter](https://github.com/booleanhunter) | Software Engineer and Blogger |
 | 18. | Omraj Sharma | 🐦[Twitter](https://twitter.com/om_raj_sharma) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/omraj-sharma/) | [@omrajsharma](https://github.com/omrajsharma) | Full stack web developer |
+| 19. | Narasimha Prasanna HN | 🐦[Twitter](https://twitter.com/prasannahn1997) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/narasimha-prasanna-hn-17aa89146/) | [@Narasimha1997](https://github.com/Narasimha1997) | Software Development Engineer |

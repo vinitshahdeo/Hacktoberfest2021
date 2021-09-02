@@ -18,6 +18,8 @@ Here's a handpicked list of **beginner-friendly issues** (& repositories) ahead 
 
 ❯ [Read the blog](https://vinitshahdeo.dev/beginner-friendly-issues-for-hacktoberfest-2021) 📖
 
+❯ [Request an event](https://github.com/vinitshahdeo/Hacktoberfest2021/issues/new?assignees=vinitshahdeo&labels=event-request&template=event-request.md&title=Request+for+an+event) ⭐
+
 Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) challenge!
 
 ## Beginner-friendly issues

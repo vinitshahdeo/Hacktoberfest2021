@@ -26,3 +26,4 @@
 | 23. | Kanak | 🐦[Twitter](https://twitter.com/kanak2212?s=90) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/kanak-a21384186/) | [@kanak22](https://github.com/kanak22) | Full Stack Web Developer and open-source enthusiast |
 | 24. | Saifur Rahman Mohsin | 🐦[Twitter](https://twitter.com/SaifurMohsin) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/saifurrahmanmohsin/) | [@mohsin](https://github.com/mohsin) | Freelance Fullstack Developer |
 | 25. | Gauransh Kumar | 🐦[Twitter](https://twitter.com/gauransh_k) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/gauranshk21) | [@gauranshkumar](https://github.com/gauranshkumar) | DevOps Lead @ GDSC MAIT, Certified Kubernetes Application Developer |
+| 26. | Prathamesh Borse | 🐦[Twitter](https://twitter.com/Dev_prathamtwt) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/prathameshborse) | [@gauranshkumar](https://github.com/prathamesh-borse) | Frontend Developer , Open-source enthusiast, Maintainer @ Talkslab |

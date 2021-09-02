@@ -25,3 +25,4 @@
 | 22. | Deepak Verma | 🐦[Twitter](https://twitter.com/deeqakkk) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/deeqakkk/) | [@deeqakkk](https://github.com/deeqakkk) | Full Stack Web Developer, Mentor @ GWOC'21 |
 | 23. | Kanak | 🐦[Twitter](https://twitter.com/kanak2212?s=90) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/kanak-a21384186/) | [@kanak22](https://github.com/kanak22) | Full Stack Web Developer and open-source enthusiast |
 | 24. | Saifur Rahman Mohsin | 🐦[Twitter](https://twitter.com/SaifurMohsin) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/saifurrahmanmohsin/) | [@mohsin](https://github.com/mohsin) | Freelance Fullstack Developer |
+| 25. | Gauransh Kumar | 🐦[Twitter](https://twitter.com/gauransh_k) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/gauranshk21) | [@gauranshkumar](https://github.com/gauranshkumar) | DevOps Lead @ GDSC MAIT, Certified Kubernetes Application Developer |

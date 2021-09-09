@@ -30,3 +30,4 @@
 | 27. | Divya Bhushan | 🎓 [LinkedIn](https://www.linkedin.com/in/divyabhushan/) | [@divyabhushan](https://github.com/divyabhushan) | Software Documentation/Technical Writer at Lumel |
 | 28. | Sonali Singh | 🐦[Twitter](https://twitter.com/sonali12_singh) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/sonali-singh20/) | [@sonali-singh97](https://github.com/sonali-singh97) | MERN Stack Developer, Software Development Intern at Text Mercato |
 | 29. | Vanshika Srivastava | 🐦[Twitter](https://twitter.com/ThisisVanshika) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/vanshika-srivastava/) |[@vanshika-srivastava](https://github.com/vanshika-srivastava) | Intern at Data on Kubernetes community , Open Source Enthusiast , DevRel & Community Builder |
+| 30. | Chanchal Bansal | 🐦[Twitter](https://twitter.com/chanchalbansall) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/chanchal16/) | [@Chanchal1603](https://github.com/Chanchal1603) | Full Stack Developer |

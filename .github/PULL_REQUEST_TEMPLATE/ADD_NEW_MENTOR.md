@@ -1,9 +1,9 @@
 ### Provide your information
 
-- Name: <Add your name here>
-- LinkedIn: <Add link to your Linkedin profile>
-- Twitter: <Add link to your Twitter profile>
-- About: <Short bio about you>
+- Name: <Vijeta Saini>
+- LinkedIn: <https://in.linkedin.com/in/vijeta-saini-0211>
+- Twitter: <https://twitter.com/VijetaSaini5e>
+- About: <Full Stack Web Developer>
 
 ### Why do you want to become a mentor (optional)
 

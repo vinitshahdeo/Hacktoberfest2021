@@ -32,3 +32,4 @@
 | 29. | Vanshika Srivastava | 🐦[Twitter](https://twitter.com/ThisisVanshika) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/vanshika-srivastava/) |[@vanshika-srivastava](https://github.com/vanshika-srivastava) | Intern at Data on Kubernetes community , Open Source Enthusiast , DevRel & Community Builder |
 | 30. | Chanchal Bansal | 🐦[Twitter](https://twitter.com/chanchalbansall) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/chanchal16/) | [@Chanchal1603](https://github.com/Chanchal1603) | Full Stack Developer |
 | 31. | Vijeta Saini | 🐦[Twitter](https://twitter.com/VijetaSaini5) <br/> 🎓 [LinkedIn](www.linkedin.com/in/vijeta-saini-0211) | [@vijetasaini0211](https://github.com/vijetasaini0211) | Full Stack Developer |
+| 32. | Ishika Mittal | 🎓 [LinkedIn](https://www.linkedin.com/in/ishika-mittal-2a3242183/) | [@ishikaamittal](https://github.com/ishikaamittal) | Python Developer

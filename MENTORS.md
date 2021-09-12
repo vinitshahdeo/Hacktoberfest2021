@@ -33,3 +33,4 @@
 | 30. | Chanchal Bansal | 🐦[Twitter](https://twitter.com/chanchalbansall) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/chanchal16/) | [@Chanchal1603](https://github.com/Chanchal1603) | Full Stack Developer |
 | 31. | Vijeta Saini | 🐦[Twitter](https://twitter.com/VijetaSaini5) <br/> 🎓 [LinkedIn](www.linkedin.com/in/vijeta-saini-0211) | [@vijetasaini0211](https://github.com/vijetasaini0211) | Full Stack Developer |
 | 32. | Ishika Mittal | 🎓 [LinkedIn](https://www.linkedin.com/in/ishika-mittal-2a3242183/) | [@ishikaamittal](https://github.com/ishikaamittal) | Python Developer
+| 33. | Simran Dhiman | 🐦[Twitter](https://twitter.com/simran_2104) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/simran2104) | [@simran2104](https://github.com/simran2104) | Full Stack Python Developer |

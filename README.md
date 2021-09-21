@@ -105,6 +105,7 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | 24. | [T-Picker-Frontend](https://github.com/Binary-Cumates/T-Picker-Frontend) | [![GitHub issues](https://img.shields.io/github/issues/Binary-Cumates/T-Picker-Frontend?color=red&logo=github&style=flat-square)](https://github.com/Binary-Cumates/T-Picker-Frontend) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Binary-Cumates/T-Picker-Frontend?style=social&logo=github)](https://github.com/Binary-Cumates/T-Picker-Frontend/pulls) | [![GitHub forks](https://img.shields.io/github/forks/Binary-Cumates/T-Picker-Frontend?style=flat-square&logo=git)](https://github.com/Binary-Cumates/T-Picker-Frontend/network) |
 | 25. | [T-Picker-Backend](https://github.com/Binary-Cumates/T-Picker-Backend) | [![GitHub issues](https://img.shields.io/github/issues/Binary-Cumates/T-Picker-Backend?color=red&logo=github&style=flat-square)](https://github.com/Binary-Cumates/T-Picker-Backend) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Binary-Cumates/T-Picker-Backend?style=social&logo=github)](https://github.com/Binary-Cumates/T-Picker-Backend/pulls) | [![GitHub forks](https://img.shields.io/github/forks/Binary-Cumates/T-Picker-Backend?style=flat-square&logo=git)](https://github.com/Binary-Cumates/T-Picker-Backend/network) |
 | 26. | [CODINGSPACE](https://github.com/rishipurwar1/coding-space) | [![GitHub issues](https://img.shields.io/github/issues/rishipurwar1/coding-space?color=red&logo=github&style=flat-square)](https://github.com/rishipurwar1/coding-space/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/rishipurwar1/coding-space?style=social&logo=github)](https://github.com/rishipurwar1/coding-space/pulls) | [![GitHub forks](https://img.shields.io/github/forks/rishipurwar1/coding-space?style=flat-square&logo=git)](https://github.com/rishipurwar1/coding-space/network) |
+| 27. | [Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms) | [![GitHub issues](https://img.shields.io/github/issues/thepranaygupta/Data-Structures-and-Algorithms?color=red&logo=github&style=flat-square)](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/thepranaygupta/Data-Structures-and-Algorithms?style=social&logo=github)](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pulls) | [![GitHub forks](https://img.shields.io/github/forks/thepranaygupta/Data-Structures-and-Algorithms?style=flat-square&logo=git)](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/network/members) |
 
 ## Your First PR
 
@@ -138,12 +139,12 @@ As a mentor, you will:
 
 🤝 **welcome and help others to finish the Hacktoberfest challenge**.
 
-Please refer [this blog](https://vinitshahdeo.dev/beginner-friendly-issues-for-hacktoberfest-2021) to learn more.
+Please refer to [this blog](https://vinitshahdeo.dev/beginner-friendly-issues-for-hacktoberfest-2021) to learn more.
 
 
 ## Need help
 
-Are you a beginner looking for a help in kickstaring your open-source journey? [Start a discussion here](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1). The community will always welcome your doubts! Watch this repo, I will keep adding new beginner-friendly issues.
+Are you a beginner looking for help in kickstarting  your open-source journey? [Start a discussion here](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1). The community will always welcome your doubts! Watch this repo, I will keep adding new beginner-friendly issues.
 
 - Additionally, you can reach out to the mentors to get 1:1 help to resolve your queries. **Find your mentor [here](./MENTORS.md)**.
 - Follow [GitHub - We love OSS 💙](https://www.clubhouse.com/club/github-we-love-oss) on Clubhouse and join the rooms to interact with the mentors.

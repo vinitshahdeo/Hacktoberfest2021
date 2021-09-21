@@ -46,4 +46,4 @@
 | 44. | Sarthak Jain | 🐦[Twitter](https://twitter.com/sarthakjdev) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/sarthakjde mainv/) | [@sarthakjdev](https://github.com/sarthakjdev) | Open source geek, Community and hackathon enthusiast, Full Stack, DevOps, Freelancer |
 | 43. | Praveen Kumar Purushothaman | 🐦[Twitter](https://twitter.com/praveenscience) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/praveentech/) | [@praveenscience](https://github.com/praveenscience) | Full Stack JavaScript Specialist - MERN Stack, Careers Mentor, Supervisor @GWoC'21 |
 | 44. | Sarthak Jain | 🐦[Twitter](https://twitter.com/sarthakjdev) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/sarthakjde mainv/) | [@sarthakjdev](https://github.com/sarthakjdev) | Open source geek, Community and hackathon enthusiast, Full Stack, DevOps, Freelancer |
-
+| 45. | Anubhav Gupta | 🐦[Twitter](https://twitter.com/Anubhav43591222) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/anubhav-gupta-09b2401b6/) | [@anubhav201241](https://github.com/anubhav201241) | Open Source and Tech Enthusiast , Mentor @GWoC'21 |

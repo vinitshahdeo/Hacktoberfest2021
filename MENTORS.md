@@ -42,3 +42,5 @@
 | 39. | Pulkit Singh | 🐦[Twitter](https://twitter.com/PulkitSinghDev) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/PulkitSinghDev/) | [@PulkitSinghDev](https://github.com/PulkitSinghDev) | Community Evangelist at Kubesphere 🇮🇳, Author at FreeCodeCamp, Youngest Community Builder in India, DevOps, AI, FullStack |
 | 40. | Pranay Gupta | 🐦[Twitter](https://twitter.com/thepranaygupta) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/thepranaygupta/) | [@thepranaygupta](https://github.com/thepranaygupta) | Open-Source Advocate☀️, Frontend Web Developer, Contributor @GWoC'21❄️ |
 | 40. | Preeti Sharma | 🐦[Twitter](https://twitter.com/leovamark) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/preetisde/) | [@preeti13456](https://github.com/preeti13456) | Software Engineer at Virtusa |
+| 42. | Samriddhi Ambashta | 🎓 [LinkedIn](https://www.linkedin.com/in/samriddhi-ambashta-8528a91ab/) | [@samriddhiambashta](https://github.com/samriddhiambashta) | Competitive coder and Flutter Developer, Technical Lead @GDSC NITP |
+

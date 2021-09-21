@@ -47,3 +47,4 @@
 | 44. | Sarthak Jain | 🐦[Twitter](https://twitter.com/sarthakjdev) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/sarthakjde) | [@sarthakjdev](https://github.com/sarthakjdev) | Open source geek, Community and hackathon enthusiast, Full Stack, DevOps, Freelancer |
 | 45. | Samriddhi Ambashta | 🎓 [LinkedIn](https://www.linkedin.com/in/samriddhi-ambashta-8528a91ab/) | [@samriddhiambashta](https://github.com/samriddhiambashta) | Competitive coder and Flutter Developer, Technical Lead @GDSC NITP |
 | 46. | Abhigyan Srivastav | 🐦[Twitter](https://twitter.com/amAbhigyan) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/amAbhigyan) | [@AbhigyanSrivastav](https://github.com/AbhigyanSrivastav) | Campus leader @CommClassroom, open source enthusiast, Aspiring Android Developer |
+| 47. | Khushhal Reddy | 🎓 [LinkedIn](https://www.linkedin.com/in/khushhalreddy/) | [@KKhushhalR2405](https://github.com/KKhushhalR2405) | Incoming SDE at PayU |

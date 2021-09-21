@@ -44,6 +44,6 @@
 | 41. | Preeti Sharma | 🐦[Twitter](https://twitter.com/Leovarmak1) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/preetisde/) | [@preeti13456](https://github.com/preeti13456) | Software Engineer at Virtusa |
 | 42. | Rajat Verma | 🐦[Twitter](https://twitter.com/rajatverma2502) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/rajat2502) | [@rajat2502](https://github.com/rajat2502) | Software Engineering intern at @Headout, InOut 7.0 and SIH'20 Winner|
 | 43. | Praveen Kumar Purushothaman | 🐦[Twitter](https://twitter.com/praveenscience) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/praveentech/) | [@praveenscience](https://github.com/praveenscience) | Full Stack JavaScript Specialist - MERN Stack, Careers Mentor, Supervisor @GWoC'21 |
-| 44. | Sarthak Jain | 🐦[Twitter](https://twitter.com/sarthakjdev) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/sarthakjde mainv/) | [@sarthakjdev](https://github.com/sarthakjdev) | Open source geek, Community and hackathon enthusiast, Full Stack, DevOps, Freelancer |
+| 44. | Sarthak Jain | 🐦[Twitter](https://twitter.com/sarthakjdev) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/sarthakjde) | [@sarthakjdev](https://github.com/sarthakjdev) | Open source geek, Community and hackathon enthusiast, Full Stack, DevOps, Freelancer |
 
 

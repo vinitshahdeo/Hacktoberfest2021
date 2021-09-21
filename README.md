@@ -138,12 +138,12 @@ As a mentor, you will:
 
 🤝 **welcome and help others to finish the Hacktoberfest challenge**.
 
-Please refer [this blog](https://vinitshahdeo.dev/beginner-friendly-issues-for-hacktoberfest-2021) to learn more.
+Please refer to [this blog](https://vinitshahdeo.dev/beginner-friendly-issues-for-hacktoberfest-2021) to learn more.
 
 
 ## Need help
 
-Are you a beginner looking for a help in kickstaring your open-source journey? [Start a discussion here](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1). The community will always welcome your doubts! Watch this repo, I will keep adding new beginner-friendly issues.
+Are you a beginner looking for help in kickstarting  your open-source journey? [Start a discussion here](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1). The community will always welcome your doubts! Watch this repo, I will keep adding new beginner-friendly issues.
 
 - Additionally, you can reach out to the mentors to get 1:1 help to resolve your queries. **Find your mentor [here](./MENTORS.md)**.
 - Follow [GitHub - We love OSS 💙](https://www.clubhouse.com/club/github-we-love-oss) on Clubhouse and join the rooms to interact with the mentors.

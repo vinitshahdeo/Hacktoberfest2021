@@ -42,4 +42,7 @@
 | 39. | Pulkit Singh | 🐦[Twitter](https://twitter.com/PulkitSinghDev) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/PulkitSinghDev/) | [@PulkitSinghDev](https://github.com/PulkitSinghDev) | Community Evangelist at Kubesphere 🇮🇳, Author at FreeCodeCamp, Youngest Community Builder in India, DevOps, AI, FullStack |
 | 40. | Pranay Gupta | 🐦[Twitter](https://twitter.com/thepranaygupta) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/thepranaygupta/) | [@thepranaygupta](https://github.com/thepranaygupta) | Open-Source Advocate☀️, Frontend Web Developer, Contributor @GWoC'21❄️ |
 | 41. | Preeti Sharma | 🐦[Twitter](https://twitter.com/Leovarmak1) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/preetisde/) | [@preeti13456](https://github.com/preeti13456) | Software Engineer at Virtusa |
-| 42. | Sarthak Jain | 🐦[Twitter](https://twitter.com/sarthakjdev) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/sarthakjdev/) | [@sarthakjdev](https://github.com/sarthakjdev) | Open source geek, Community and hackathon enthusiast, Full Stack, DevOps, Freelancer |
+| 42. | Rajat Verma | 🐦[Twitter](https://twitter.com/rajatverma2502) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/rajat2502) | [@rajat2502](https://github.com/rajat2502) | Software Engineering intern at @Headout, InOut 7.0 and SIH'20 Winner|
+| 43. | Sarthak Jain | 🐦[Twitter](https://twitter.com/sarthakjdev) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/sarthakjdev/) | [@sarthakjdev](https://github.com/sarthakjdev) | Open source geek, Community and hackathon enthusiast, Full Stack, DevOps, Freelancer |
+
+

@@ -60,3 +60,4 @@
 | 57. | Jaskeerat Singh | 🐦[Twitter](https://twitter.com/Jaskeer56002158) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/jaskeerat-singh-5438531a6/) | [@Jassi10000](https://github.com/Jassi10000) | MERN Stack Developer, Open source enthusiast|
 | 58. | Kshitij Dhyani | 🎓 [LinkedIn](https://www.linkedin.com/in/kshitijdhyani/) | [@wimpywarlord](https://github.com/wimpywarlord) | Mr.Nobody, but the one who is always willing to help you. |
 | 59. | S Harshita | 🐦[Twitter](https://twitter.com/_harshita_16) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/s-harshita/) | [@harshita2216](https://github.com/harshita2216) | Web Developer, Mentor @ GSSoC '21 and LGMSoC '21 |
+| 60. | Aniket Bhattacharyea | 🐦[Twitter](https://twitter.com/heraldofsolace) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/heraldofsolace/) | [@heraldofsolace](https://github.com/heraldofsolace) | Technical Content Writer at Draft.Dev |

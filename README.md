@@ -1,6 +1,9 @@
 # Hacktoberfest 2021
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&style=flat)](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/master/LICENSE) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FHacktoberfest2021&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://vinitshahdeo.github.io/Hacktoberfest2021/) [![Check out blog on Hashnode](https://img.shields.io/badge/Check%20blog-2962FF?logo=hashnode&logoColor=white)](https://vinitshahdeo.dev/beginner-friendly-issues-for-hacktoberfest-2021)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&style=flat)](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/master/LICENSE) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FHacktoberfest2021&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://vinitshahdeo.github.io/Hacktoberfest2021/) [![Check out blog on Hashnode](https://img.shields.io/badge/Check%20blog-2962FF?logo=hashnode&logoColor=white)](https://vinitshahdeo.dev/beginner-friendly-issues-for-hacktoberfest-2021) [![Join our Discord](https://img.shields.io/badge/Join-Discord-8CA1A5?logo=discord&logoColor=white)](https://discord.gg/VABFEUWQ)
+
+
+👉 **[How can you get on board as a mentor](https://vinitshahdeo.dev/hacktoberfest-2021)** ✨
 
 Here's a handpicked list of **beginner-friendly issues** (& repositories) ahead of time so that you can get the ball rolling once Hacktoberfest kicks off! 🚀
 
@@ -126,6 +129,8 @@ All you need to know is an inspirational quote! Voila, you're just a step away f
     - Kindly follow [this format](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/.github/PULL_REQUEST_TEMPLATE/ADD_NEW_MENTOR.md) to raise the PR.
 
 ## Mentoring
+
+> **[Learn more](https://vinitshahdeo.dev/hacktoberfest-2021) about the initiative**.
 
 If you're interested to become a mentor to help beginners kickstart their open-source journey, **please submit your details [here](https://forms.gle/ejsMiFFuHbQbpGNGA)**. Post the Google form submission, please raise a PR ([template](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/.github/PULL_REQUEST_TEMPLATE/ADD_NEW_MENTOR.md)) to add your name to [`MENTORS.md`](./MENTORS.md). 
 

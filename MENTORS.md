@@ -61,3 +61,5 @@
 | 58. | Kshitij Dhyani | 🎓 [LinkedIn](https://www.linkedin.com/in/kshitijdhyani/) | [@wimpywarlord](https://github.com/wimpywarlord) | Mr.Nobody, but the one who is always willing to help you. |
 | 59. | S Harshita | 🐦[Twitter](https://twitter.com/_harshita_16) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/s-harshita/) | [@harshita2216](https://github.com/harshita2216) | Web Developer, Mentor @ GSSoC '21 and LGMSoC '21 |
 | 60. | Aniket Bhattacharyea | 🐦[Twitter](https://twitter.com/heraldofsolace) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/heraldofsolace/) | [@heraldofsolace](https://github.com/heraldofsolace) | Technical Content Writer at Draft.Dev |
+| 61. | Zainuddeen Abdul Muiz | 🐦[Twitter](https://twitter.com/Zain_A_Muiz) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/zainuddeen-abdul-muiz-36969b196) | [@Zain-Muiz](https://github.com/Zain-Muiz) | Full Stack Web Developer and Open Source Enthusiast |
+

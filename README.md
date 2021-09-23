@@ -77,6 +77,7 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | 46. | [CODINGSPACE](https://github.com/rishipurwar1/coding-space) | [Create a Join Discord Community button](https://github.com/rishipurwar1/coding-space/issues/28) | `REACTJS` `TAILWINDCSS` `FIREBASE`|
 | 47. | [CODINGSPACE](https://github.com/rishipurwar1/coding-space) | [Fix challenge details page blank screen](https://github.com/rishipurwar1/coding-space/issues/24) | `REACTJS` `TAILWINDCSS` `FIREBASE`|
 | 48. | [CODINGSPACE](https://github.com/rishipurwar1/coding-space) | [Card and button lack hover effect](https://github.com/rishipurwar1/coding-space/issues/26) | `REACTJS` `TAILWINDCSS` `FIREBASE`|
+| 49. | [dry-python/classes](https://github.com/dry-python/classes) | [Add `Any` alias to `object`](https://github.com/dry-python/classes/issues/307) | `Python` |
 
 ## Beginner-friendly repositories
 

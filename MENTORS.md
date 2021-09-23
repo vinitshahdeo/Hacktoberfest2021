@@ -67,3 +67,4 @@
 | 64. | Prathamesh Shanbhag | 🐦[Twitter](https://twitter.com/Prathamesh_117) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/prathamesh-shanbhag/) | [@Prathamesh-Shanbhag](https://github.com/Prathamesh-Shanbhag) | HackClub Lead, Technical Content Writer @ Aviyel, Organizer @ API Hacks 2.0, Interactive Web Dev|
 | 65. | Nikita Sobolev | - | [@sobolevn](https://github.com/sobolevn) | CTO of wemake.services |
 | 66. | Harshvardhan Singh | 🐦[Twitter](https://twitter.com/_Honey_9__) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/honey-1287b91aa/) | [@Honey_9](https://github.com/Honey-9) | Frontend Developer and Open Source Enthusiast  |
+| 67. | Rahul Gulia | 🎓 [LinkedIn](https://www.linkedin.com/in/rahulgulia/) | [@RsTaK](https://github.com/RsTaK) | Computer Vision Intern, Mentor[@devstrons](https://github.com/devstrons) & [@Exchange with Google Developers]([@devstrons](https://github.com/devstrons)) |

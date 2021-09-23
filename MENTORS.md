@@ -71,4 +71,4 @@
 | 68. | Chirag Agrawal | 🐦[Twitter](https://twitter.com/Chiragagrwal7) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/chirag-agrawal9200/) | [@chiragagrawal9200](https://github.com/chiragagrawal9200) | Web Developer and Open Source Enthusiast |
 | 69. | Ghulam Yazdani | 🐦[Twitter](https://twitter.com/iamyazreza) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/ghulamyazdani/) | [@ghulamyazdani](https://github.com/ghulamyazdani) | Co-Founder at [@devstrons](https://github.com/devstrons), CNCF Organizer [@Cncf-Delhi](https://community.cncf.io/delhi/), Supervisor at [@GWoC'21❄️](https://github.com/girlscript/winter-of-contributing) Full stack Developer  |
 | 70. | Vedant Kakde | 🐦[Twitter](https://twitter.com/vedantstwt) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/vedant-kakde/) | [@vedant-kakde](https://github.com/vedant-kakde) | HackClub Lead, Open Source and Community Enthusiast |
-
+| 71. | Uma Negi |  🎓 [LinkedIn](https://www.linkedin.com/in/uma-negi-543734186/) | [@uma4037](https://github.com/uma4037) | MERN Stack Developer |

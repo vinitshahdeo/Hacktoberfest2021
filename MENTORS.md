@@ -83,3 +83,4 @@
 | 79. | Uttam kumar | 🐦[Twitter](https://twitter.com/Uttamku74410059) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/uttam-kumar-511a411ba/) | [@helper-uttam](https://github.com/helper-uttam) | Full Stack Web Developer and Open Source Enthusiast |
 | 80. | Harkirat Singh | 🐦[Twitter](https://twitter.com/harkiratsm) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/harkirat-singh-621482221/) | [@harkiratsm](https://github.com/harkiratsm) | Open Source & Cloud ☁️ Native Tools Enthusiast , Reactjs Developer |
 | 81. | Smile Gupta | 🐦[Twitter](https://twitter.com/smileguptaaa) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/smilegupta/) | [@smilegupta](https://github.com/smilegupta) | Frontend Engineer at Razorpay |
+| 82. | Muskan Rastogi | 🐦[Twitter](https://twitter.com/muskan_rastogi1) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/muskanrastogi/) | [@muskanrastogi](https://github.com/muskanrastogi1) | Incoming Software Engineer at Bankbuddy. |

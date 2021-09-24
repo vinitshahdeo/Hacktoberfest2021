@@ -9,11 +9,13 @@
 
 👉 **Kindly [submit your details](https://forms.gle/GJSUTPBJ4Rw4DTMk9) if you're beginner who's looking for a mentor**. 🌈
 
+### Quick Links
+
 | EXPLORE  | CONNECT | BLOG POSTS  | MEDIA ASSETS  |
 |---|---|---|---|
-| [`ISSUES.md`](./explore/ISSUES.md)  | Mentors  | [A curated list of beginner-friendly issues for Hacktoberfest 2021](https://vinitshahdeo.dev/beginner-friendly-issues-for-hacktoberfest-2021)  | [Posters](./assets/posters/mentors)  |
-| [`PROJECTS.md`](./explore/PROJECTS.md)  | Mentees  | [Muddle through Hacktoberfest 2021 like a Pro](https://vinitshahdeo.dev/hacktoberfest-2021) 🎉  |  [PPTs](./deck)  |
-| [`EVENTS.md`](./explore/EVENTS.md) | Admin  | [Introduction to Git & Github. Create your first PR.](https://thisisamank.me/git-intro-hacktoberfest-2021)  | [Mentor Pictures](./assets/pictures)  |
+| [`ISSUES.md`](./explore/ISSUES.md)  | [Mentors](./MENTORS.md)  | [A curated list of beginner-friendly issues for Hacktoberfest 2021](https://vinitshahdeo.dev/beginner-friendly-issues-for-hacktoberfest-2021)  | [Posters](./assets/posters/mentors)  |
+| [`PROJECTS.md`](./explore/PROJECTS.md)  | [Mentees](./contributors/MENTEES.md)  | [Muddle through Hacktoberfest 2021 like a Pro](https://vinitshahdeo.dev/hacktoberfest-2021) 🎉  |  [PPTs](./deck)  |
+| [`EVENTS.md`](./explore/EVENTS.md) | [Admin](https://twitter.com/Vinit_Shahdeo)  | [Introduction to Git & Github. Create your first PR.](https://thisisamank.me/git-intro-hacktoberfest-2021)  | [Mentor Pictures](./assets/pictures)  |
 
 Here's a home to your queries and quest for potential issues to contribute. We've compiled a handpicked list of **beginner-friendly issues** (& repositories) ahead of time so that you can get the ball rolling once Hacktoberfest kicks off! 🚀 If you are a beginner, the [mentors](./MENTORS.md) will guide you on getting started with open source and completing your Hacktoberfest challenge. You can begin by introducing yourself [here](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/127). If you happen to be experienced in this field, we would be more than grateful to onboard you as a mentor. Please go through "[Muddle through Hacktoberfest 2021 like a Pro](https://vinitshahdeo.dev/hacktoberfest-2021) 🎉" blog post to learn more or find the quick links below:
 

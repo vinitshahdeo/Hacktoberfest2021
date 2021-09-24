@@ -92,6 +92,8 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | 49. | [dry-python/classes](https://github.com/dry-python/classes) | [Add `Any` alias to `object`](https://github.com/dry-python/classes/issues/307) | `Python` |
 | 50. | [Attack on Web](https://github.com/felixfaisal/attack-on-web) | [Fix Linting](https://github.com/felixfaisal/attack-on-web/issues/31) | `JavaScript` `NodeJs` |
 | 51. | [Formica](https://github.com/felixfaisal/formica)| [Use Docker Volumes instead of Copy](https://github.com/felixfaisal/formica/issues/55) | `Docker` |
+| 52. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Adding a sidebar index in standard output](https://github.com/prafulla-codes/express-autodocs/issues/19) | `Javascript ExpressJs` |
+| 53. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Adding a sidebar index in standard output](https://github.com/prafulla-codes/express-autodocs/issues/2) | `Javascript ExpressJs`|
 
 ## Beginner-friendly repositories
 

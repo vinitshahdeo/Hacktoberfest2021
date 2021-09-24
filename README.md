@@ -3,10 +3,11 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&style=flat)](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/master/LICENSE) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FHacktoberfest2021&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://vinitshahdeo.github.io/Hacktoberfest2021/) [![Check out blog on Hashnode](https://img.shields.io/badge/Check%20blog-2962FF?logo=hashnode&logoColor=white)](https://vinitshahdeo.dev/beginner-friendly-issues-for-hacktoberfest-2021) [![Join our Discord](https://img.shields.io/badge/Join-Discord-8CA1A5?logo=discord&logoColor=white)](https://discord.gg/VABFEUWQ)
 
+👉 **How can you [get on board as a mentor](https://vinitshahdeo.dev/hacktoberfest-2021).** ✨
 
-👉 **[How can you get on board as a mentor](https://vinitshahdeo.dev/hacktoberfest-2021)** ✨
+👉 **Kindly [submit your details](https://forms.gle/GJSUTPBJ4Rw4DTMk9) if you're beginner who's looking for a mentor**. 🌈
 
-Here's a handpicked list of **beginner-friendly issues** (& repositories) ahead of time so that you can get the ball rolling once Hacktoberfest kicks off! 🚀
+Here's a home to your queries and quest for potential issues to contribute. We've compiled a handpicked list of **beginner-friendly issues** (& repositories) ahead of time so that you can get the ball rolling once Hacktoberfest kicks off! 🚀 If you are a beginner, the [mentors](./MENTORS.md) will guide you on getting started with open source and completing your Hacktoberfest challenge. You can begin by introducing yourself [here](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/127). If you happen to be experienced in this field, we would be more than grateful to onboard you as a mentor. Please go through "[Muddle through Hacktoberfest 2021 like a Pro](https://vinitshahdeo.dev/hacktoberfest-2021) 🎉" blog post to learn more or find the quick links below:
 
 ❯ [Your First PR](#your-first-pr) 🔥
 

@@ -1,9 +1,9 @@
 ### Provide your information
 
-- Name: <Add your name here>
-- LinkedIn: <Add link to your Linkedin profile>
-- Twitter: <Add link to your Twitter profile>
-- About: <Short bio about you>
+- Name: Farhan Ashraf
+- LinkedIn: https://www.linkedin.com/in/s4a/
+- Twitter: https://twitter.com/Mriceflame
+- About: GDSC BULC & HackClub BULC Lead | IEEE BULC ChairPerson | AngelHack & Gitkraken Ambassador | Computer Science Student.
 
 ### Why do you want to become a mentor (optional)
 

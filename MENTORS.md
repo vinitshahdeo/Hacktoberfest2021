@@ -82,4 +82,6 @@
 | 78. | Arsheel Sheikh | 🐦[Twitter](https://twitter.com/arsheeltwts) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/arsheel-sheikh-97137b1b3/) | [@arsheelsheikh](https://github.com/arsheelsheikha) | Open-Source Enthusiast , Frontend Web Developer , DevOps , Contributor @GWoC'21 & @Kubernetes |
 | 79. | Uttam kumar | 🐦[Twitter](https://twitter.com/Uttamku74410059) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/uttam-kumar-511a411ba/) | [@helper-uttam](https://github.com/helper-uttam) | Full Stack Web Developer and Open Source Enthusiast |
 | 80. | Harkirat Singh | 🐦[Twitter](https://twitter.com/harkiratsm) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/harkirat-singh-621482221/) | [@harkiratsm](https://github.com/harkiratsm) | Open Source & Cloud ☁️ Native Tools Enthusiast , Reactjs Developer |
+| 81. | Faisal Ahmed | 🐦[Twitter](https://twitter.com/Felixfaisal46) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/faisal-ahmed-farooq-6395a0174/) | [@felixfaisal](https://github.com/felixfaisal) | LFX Mentee'21 @FD.IO, MLH Fellow'21, FOSSEE Fellow'20, Technical Content Writer, Linux Enthusiast |
+
 

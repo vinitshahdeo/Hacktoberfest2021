@@ -128,7 +128,9 @@ All you need to know is an inspirational quote! Voila, you're just a step away f
 ## Contributing
 
 - Feel free to [raise a PR](https://github.com/vinitshahdeo/Hacktoberfest2021/pulls) to add beginner-friendly issues (& repos).
-    - Kindly follow [this format](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/.github/PULL_REQUEST_TEMPLATE/ADD_NEW_ISSUE.md) to raise the PR
+    - Kindly follow [this format](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/.github/PULL_REQUEST_TEMPLATE/ADD_NEW_ISSUE.md) to raise the PR.
+        - Add your issues to [`ISSUES.md`](./explore/ISSUES.md)
+        - Add your repositores to [`PROJECTS.md`](./explore/ISSUES.md)
 
 - Resolve the beginner's queries [here](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1).
 

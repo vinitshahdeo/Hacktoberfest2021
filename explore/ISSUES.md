@@ -49,3 +49,5 @@
 | 47. | [CODINGSPACE](https://github.com/rishipurwar1/coding-space) | [Fix challenge details page blank screen](https://github.com/rishipurwar1/coding-space/issues/24) | `REACTJS` `TAILWINDCSS` `FIREBASE`|
 | 48. | [CODINGSPACE](https://github.com/rishipurwar1/coding-space) | [Card and button lack hover effect](https://github.com/rishipurwar1/coding-space/issues/26) | `REACTJS` `TAILWINDCSS` `FIREBASE`|
 | 49. | [dry-python/classes](https://github.com/dry-python/classes) | [Add `Any` alias to `object`](https://github.com/dry-python/classes/issues/307) | `Python` |
+| 50. | [Attack on Web](https://github.com/felixfaisal/attack-on-web) | [Fix Linting](https://github.com/felixfaisal/attack-on-web/issues/31) | `JavaScript` `NodeJs` |
+| 51. | [Formica](https://github.com/felixfaisal/formica)| [Use Docker Volumes instead of Copy](https://github.com/felixfaisal/formica/issues/55) | `Docker` |

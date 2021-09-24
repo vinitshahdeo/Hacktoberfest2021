@@ -80,6 +80,8 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | 47. | [CODINGSPACE](https://github.com/rishipurwar1/coding-space) | [Fix challenge details page blank screen](https://github.com/rishipurwar1/coding-space/issues/24) | `REACTJS` `TAILWINDCSS` `FIREBASE`|
 | 48. | [CODINGSPACE](https://github.com/rishipurwar1/coding-space) | [Card and button lack hover effect](https://github.com/rishipurwar1/coding-space/issues/26) | `REACTJS` `TAILWINDCSS` `FIREBASE`|
 | 49. | [dry-python/classes](https://github.com/dry-python/classes) | [Add `Any` alias to `object`](https://github.com/dry-python/classes/issues/307) | `Python` |
+| 50. | [Attack on Web](https://github.com/felixfaisal/attack-on-web) | [Fix Linting](https://github.com/felixfaisal/attack-on-web/issues/31) | `JavaScript` `NodeJs` |
+| 51. | [Formica](https://github.com/felixfaisal/formica)| [Use Docker Volumes instead of Copy](https://github.com/felixfaisal/formica/issues/55) | `Docker` |
 
 ## Beginner-friendly repositories
 
@@ -126,7 +128,9 @@ All you need to know is an inspirational quote! Voila, you're just a step away f
 ## Contributing
 
 - Feel free to [raise a PR](https://github.com/vinitshahdeo/Hacktoberfest2021/pulls) to add beginner-friendly issues (& repos).
-    - Kindly follow [this format](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/.github/PULL_REQUEST_TEMPLATE/ADD_NEW_ISSUE.md) to raise the PR
+    - Kindly follow [this format](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/.github/PULL_REQUEST_TEMPLATE/ADD_NEW_ISSUE.md) to raise the PR.
+        - Add your issues to [`ISSUES.md`](./explore/ISSUES.md)
+        - Add your repositores to [`PROJECTS.md`](./explore/ISSUES.md)
 
 - Resolve the beginner's queries [here](https://github.com/vinitshahdeo/Hacktoberfest2021/discussions/1).
 

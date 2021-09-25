@@ -104,4 +104,4 @@
 | 101. | Yash Patel | 🐦[Twitter](https://twitter.com/yashpatel_py) <br/> 🎓 [LinkedIn](www.linkedin.com/in/yashpatel2104) | [@yash-2115](https://github.com/yash-2115) | Big data and analysis engineer, backend developer with django. Love to explore new fields and I would like to Help beginners. | 
 | 102. | Atharva Shinde | 🐦[Twitter](https://twitter.com/atharvashinde_) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/atharva-shinde-6468b4205) | [@Atharva-Shinde](https://github.com/Atharva-Shinde) | Kubernetes member, Moderator @K-dev |
 | 103. | Ankush Chavan | 🐦[Twitter](https://twitter.com/TheNameIsAnkush) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/ankushchavan/) | [@cankush625](https://github.com/cankush625) | Software Engineer. |
-
+| 104. | Rishi Purwar | 🐦[Twitter](https://twitter.com/thefierycoder) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/thefierycoder/) | [@rishipurwar1](https://github.com/yash-2115) | MERN Stack Developer, Open Source Enthusiast and GSoC'21 [@postmanlabs](https://github.com/postmanlabs) |

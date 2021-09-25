@@ -114,3 +114,4 @@
 | 111. | Sri Satya | 🐦[Twitter](https://twitter.com/SriSatya_) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/tatipamula-sri-satya/) | [@SriSatyaT](https://github.com/SriSatyaT) | Full Stack, Open Source and DevOps Enthusiast |
 | 112. | Sumit Didhate | 🐦[Twitter](https://twitter.com/DidhateSumit) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/sumit-didhate-87736a191/) | [@Samdid](https://github.com/Samdid) | Flutter Developer, Open Source Contributor and C++ enthusiast |
 | 113. | Neha Musale | 🎓 [LinkedIn](https://www.linkedin.com/in/neha-musale-4a9019196) | [@Neha62-lit](https://github.com/Neha62-lit) | Flutter Developer and Open Source Enthusiast, Contributor at GWOC |
+| 114. | Burhanuddin Rangwala | 🐦[Twitter](https://twitter.com/bamble_bam) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/burhanuddin-rangwala-33a07a1a0/) | [@bamblebam](https://github.com/bamblebam) | Open source enthusiast interested in ML-OPS and web3 |

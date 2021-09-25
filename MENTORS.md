@@ -116,4 +116,4 @@
 | 113. | Neha Musale | 🎓 [LinkedIn](https://www.linkedin.com/in/neha-musale-4a9019196) | [@Neha62-lit](https://github.com/Neha62-lit) | Flutter Developer and Open Source Enthusiast, Contributor at GWOC |
 | 114. | Burhanuddin Rangwala | 🐦[Twitter](https://twitter.com/bamble_bam) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/burhanuddin-rangwala-33a07a1a0/) | [@bamblebam](https://github.com/bamblebam) | Open source enthusiast interested in ML-OPS and web3 |
 | 115. | Manisha Gupta | 🐦[Twitter](https://twitter.com/manishawho) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/manisha-gupta-here/) | [@Manisha069](https://github.com/manisha069) | Stu-Amb @ AngelHacks, UI/UX Volunteer @ GirsScript EOP, Contributor @ GWoC | UI/UX desingner, Flutter Enthusiast and always open to learning new things!
-
+| 116. | Irfan Asif | 🐦[Twitter](https://twitter.com/demonicrfan) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/demonicirfan/) | [@demonicirfan](https://github.com/demonicirfan) | Students Ambassador AngleHack and Community Classroom, Web Developer, Open Source Enthusiast|

@@ -123,3 +123,4 @@
 | 120. | Sneha Chattopadhyay | 🎓 [LinkedIn](https://www.linkedin.com/in/sneha-chattopadhyay-a390741a7/) | [@sneha-nitdgp](https://github.com/sneha-nitdgp) | Generation Google Scholar'21, LinkedIn CoachIn'21, Mentor at GWOC'21, Web Developer, Competitive Programmer. |
 | 121. | Ruchika Sood | 🎓 [LinkedIn](https://www.linkedin.com/in/ruchika-sood-0470a799) | [@Ruchika30](https://github.com/Ruchika30) | Frontend Web Developer & Open source enthusiast
 | 122. | Yash Gupta | [LinkedIn](https://www.linkedin.com/in/yashguptaz/) | [@yashguptaz](https://github.com/yashguptaz) | Neovimer. Frequent Open Sourcer. Web Developer. Speaker. |
+| 123. | Harshjot Singh | 🐦[Twitter](https://twitter.com/harshjot1469) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/harshjot-singh) | [@Harsh-jot](http://github.com/Harsh-jot) | Web Developer and Open-Source Enthusiast

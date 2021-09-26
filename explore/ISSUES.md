@@ -52,3 +52,4 @@
 | 50. | [Attack on Web](https://github.com/felixfaisal/attack-on-web) | [Fix Linting](https://github.com/felixfaisal/attack-on-web/issues/31) | `JavaScript` `NodeJs` |
 | 51. | [Formica](https://github.com/felixfaisal/formica)| [Use Docker Volumes instead of Copy](https://github.com/felixfaisal/formica/issues/55) | `Docker` |
 | 52. | [CrossFire ❌🔥](https://github.com/KunalRaghav/Crossfire)| [Add more questions](https://github.com/KunalRaghav/Crossfire/issues/1) | `Kotlin` |
+| 53. | [CrossFire ❌🔥](https://github.com/KunalRaghav/Crossfire)| [Use android viewBindings](https://github.com/KunalRaghav/Crossfire/issues/2) | `Kotlin` |

@@ -122,3 +122,4 @@
 | 119. | Jaideep Singh | 🐦[Twitter](https://twitter.com/_jai_deep_25) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/jaideep-singh-26a226208/) | [@Jaideep25-tech](https://github.com/Jaideep25-tech) | Open-Source Enthusiast☀️, Frontend Android Developer, Java developer, Contributor @GWoC'21❄️ |
 | 120. | Sneha Chattopadhyay | 🎓 [LinkedIn](https://www.linkedin.com/in/sneha-chattopadhyay-a390741a7/) | [@sneha-nitdgp](https://github.com/sneha-nitdgp) | Generation Google Scholar'21, LinkedIn CoachIn'21, Mentor at GWOC'21, Web Developer, Competitive Programmer. |
 | 121. | Ruchika Sood | 🎓 [LinkedIn](https://www.linkedin.com/in/ruchika-sood-0470a799) | [@Ruchika30](https://github.com/Ruchika30) | Frontend Web Developer & Open source enthusiast
+| 122. | Yash Gupta | [LinkedIn](https://www.linkedin.com/in/yashguptaz/) | [@yashguptaz](https://github.com/yashguptaz) | Neovimer. Frequent Open Sourcer. Web Developer. Speaker. |

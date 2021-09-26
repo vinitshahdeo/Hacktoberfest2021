@@ -97,6 +97,8 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | 52. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Adding a sidebar index in standard output](https://github.com/prafulla-codes/express-autodocs/issues/19) | `Javascript ExpressJs` |
 | 53. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Beautify standard documentation page](https://github.com/prafulla-codes/express-autodocs/issues/2) | `Javascript ExpressJs`|
 
+> ### Find complete list of beginner-friendly repositories at [`ISSUES.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/ISSUES.md)
+
 ## Beginner-friendly repositories
 
 | Serial No. | Repository  | Issues  | Pull Requests  | Forks |
@@ -131,6 +133,8 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | 28. | [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) | [![GitHub issues](https://img.shields.io/github/issues/wemake-services/wemake-python-styleguide?color=red&logo=github&style=flat-square)](https://github.com/wemake-services/wemake-python-styleguide/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/wemake-services/wemake-python-styleguide?style=social&logo=github)](https://github.com/wemake-services/wemake-python-styleguide/pulls) | [![GitHub forks](https://img.shields.io/github/forks/wemake-services/wemake-python-styleguide?style=flat-square&logo=git)](https://github.com/wemake-services/wemake-python-styleguide/network/members) |
 | 29. | [Opentek Organization](https://github.com/Opentek-Org/opentek) | [![GitHub issues](https://img.shields.io/github/issues/Opentek-Org/opentek?color=red&logo=github&style=flat-square)](https://github.com/Opentek-Org/opentek/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Opentek-Org/opentek?style=social&logo=github)](https://github.com/Opentek-Org/opentek/pulls) | [![GitHub forks](https://img.shields.io/github/forks/Opentek-Org/opentek?style=flat-square&logo=git)](https://github.com/Opentek-Org/opentek/network/members) |
 | 30. | [express-autodocs](https://github.com/prafulla-codes/express-autodocs) | [![GitHub issues](https://img.shields.io/github/issues/prafulla-codes/express-autodocs?color=red&logo=github&style=flat-square)](https://github.com/prafulla-codes/express-autodocs/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prafulla-codes/express-autodocs?style=social&logo=github)](https://github.com/prafulla-codes/express-autodocs/pulls) | [![GitHub forks](https://img.shields.io/github/forks/prafulla-codes/express-autodocs?style=flat-square&logo=git)](https://github.com/prafulla-codes/express-autodocs/network/members) |
+
+### Find complete list of beginner-friendly repositories at [`PROJECTS.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/PROJECTS.md)
 
 ## Your First PR
 

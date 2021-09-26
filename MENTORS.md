@@ -120,4 +120,5 @@
 | 117. | Aman shrivastava | 🐦[Twitter](https://twitter.com/_aayushimittal_) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/aman-shrivastava04/) | [@Aman-shrivastava](https://github.com/aman34503) | Web Developer, Opensource Enthusiast, |
 | 118. | Ankush Singh | 🐦[Twitter](https://twitter.com/ankushsgandhi) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/ankushsinghgandhi/) | [@ankushsinghgandhi](https://github.com/ankushsinghgandhi) | Founder @CodeVisors, Flutter & LINUX Enthusiast, Content creator
 | 119. | Irfan Asif | 🐦[Twitter](https://twitter.com/demonicrfan) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/demonicirfan/) | [@demonicirfan](https://github.com/demonicirfan) | Students Ambassador AngleHack and Community Classroom, Web Developer, Open Source Enthusiast|
-
+| 120. | Jaideep Singh | 🐦[Twitter](https://twitter.com/_jai_deep_25) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/jaideep-singh-26a226208/) | [@Jaideep25-tech](https://github.com/Jaideep25-tech) | Open-Source Enthusiast☀️, Frontend Android Developer, Java developer, Contributor @GWoC'21❄️ |
+| 121. | Sneha Chattopadhyay | 🎓 [LinkedIn](https://www.linkedin.com/in/sneha-chattopadhyay-a390741a7/) | [@sneha-nitdgp](https://github.com/sneha-nitdgp) | Generation Google Scholar'21, LinkedIn CoachIn'21, Mentor at GWOC'21, Web Developer, Competitive Programmer. |

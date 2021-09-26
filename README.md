@@ -177,6 +177,7 @@ Are you a beginner looking for help in kickstarting  your open-source journey? [
 
 - Additionally, you can reach out to the mentors to get 1:1 help to resolve your queries. **Find your mentor [here](./MENTORS.md)**.
 - Follow [GitHub - We love OSS 💙](https://www.clubhouse.com/club/github-we-love-oss) on Clubhouse and join the rooms to interact with the mentors.
+- Join us on [Discord](https://discord.gg/HFbr3pnqxj).
 
 ## Support
 

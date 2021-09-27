@@ -1,9 +1,9 @@
 ### Provide your information
 
-- Name: <Add your name here>
-- LinkedIn: <Add link to your Linkedin profile>
-- Twitter: <Add link to your Twitter profile>
-- About: <Short bio about you>
+- Name: Piyush Dhir
+- LinkedIn: https://www.linkedin.com/in/piyush-dhir-009/
+- Twitter: https://twitter.com/Piyushdhir111?s=09
+- About: Familiar with OpenSource, Cloud Computing, Web-developing, C++/java.
 
 ### Why do you want to become a mentor (optional)
 

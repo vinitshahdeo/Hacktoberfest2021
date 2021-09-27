@@ -58,3 +58,4 @@
 | 56. | [ProGuard Directory](https://github.com/yogeshpaliyal/ProGuard-Director) | [Add More Libraries](https://github.com/yogeshpaliyal/ProGuard-Directory/issues/1) | `Android`
 | 57. | [CrossFire ❌🔥](https://github.com/KunalRaghav/Crossfire)| [Use android viewBindings](https://github.com/KunalRaghav/Crossfire/issues/2) | `Kotlin` |
 | 58. | [Ghost](https://github.com/TryGhost/Ghost)| [Unable to import Members](https://github.com/TryGhost/Ghost/issues/13216) | `HTML` `CSS` `JS`|
+| 59. | [Scrapy](https://github.com/scrapy/scrapy)| [Remove UrlLengthMiddleware from default enabled middlewares](https://github.com/scrapy/scrapy/issues/5135) | `Python` |

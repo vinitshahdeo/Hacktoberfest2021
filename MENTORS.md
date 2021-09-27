@@ -131,3 +131,4 @@
 | 128. | Mukul Kolpe | 🐦[Twitter](https://twitter.com/MukulKolpe) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/mukulkolpe/) | [@MukulKolpe](https://github.com/MukulKolpe) | Stu-Amb @AngelHack, Mentor @DCP'21, Contributor @GSSoC'21, LGMSoC'21 |
 | 129. | Himanshu | 🐦[Twitter](https://twitter.com/_himanshu_325) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/himanshu-here/) | [@himanshu007-creator](https://github.com/himanshu007-creator) | Enjoying opensource and communities🎉, getting better day by day |
 | 129. | Keshav Mohta | 🐦[Twitter](https://twitter.com/xkeshav) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/xkeshav/) | [@xkeshav](https://github.com/xkeshav) |UI Lead at Barclays|
+| 130. | Aniket Prabhakar | 🐦[Twitter](https://twitter.com/aniketprab10?s=09) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/aniket-prabhakar/) |(https://github.com/aniketprabhakar) | Python Developer, open source and data science enthusiast, cloud practitioner |

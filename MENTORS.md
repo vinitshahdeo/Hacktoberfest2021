@@ -125,3 +125,4 @@
 | 122. | Yash Gupta | [LinkedIn](https://www.linkedin.com/in/yashguptaz/) | [@yashguptaz](https://github.com/yashguptaz) | Neovimer. Frequent Open Sourcer. Web Developer. Speaker. |
 | 123. | Rohan Kulkarni | 🐦[Twitter](https://twitter.com/rohan_2502) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/rohan-k-2502/) | [@rohan-kulkarni-25](https://github.com/rohan-kulkarni-25) | Learning Full Stack Development , Exploring Open Source |
 | 124. | Pooja Sabnani | :bird: [Twitter](https://twitter.com/poojasabnani93) <br>:mortar_board: [LinkedIn](https://www.linkedin.com/in/pooja-s93/) | [@py93](https://github.com/py93/)  | Software Engineer at Morgan Stanley. |
+| 125. | Ankita Saloni | 🐦[Twitter](https://twitter.com/saloniankita_) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/saloniankita/) | [@saloniankita](https://github.com/saloniankita) | Generation Google Scholar'21, Former ML Intern @Omdena, GitHub Campus Expert, Mentor @GirlScript Foundation |

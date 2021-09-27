@@ -1,9 +1,9 @@
 ### Provide your information
 
-- Name: <Add your name here>
-- LinkedIn: <Add link to your Linkedin profile>
-- Twitter: <Add link to your Twitter profile>
-- About: <Short bio about you>
+- Name: Vinay Panchal
+- LinkedIn: https://www.linkedin.com/in/vinaynpp
+- Twitter: https://twitter.com/Vinaynpp
+- About: Open Source Enthusiast and full stack Python developer
 
 ### Why do you want to become a mentor (optional)
 

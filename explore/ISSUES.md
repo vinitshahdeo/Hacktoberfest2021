@@ -55,3 +55,4 @@
 | 53. | [Heel2Toe](https://github.com/saloni-15/Heel2Toe)| [Improve Footer Section](https://github.com/saloni-15/Heel2Toe/issues/1) | `HTML` `CSS` `JS` |
 | 54. | [strongbox](https://github.com/strongbox/strongbox)| [Improve Footer Section](https://github.com/strongbox/strongbox/issues/1730) | `Java` `Documentation`|
 | 55. | [Instagram Clone](https://github.com/cankush625/Instagram_Clone)| [Make camera button working](https://github.com/cankush625/Instagram_Clone/issues/8) | `Flutter` `Dart`|
+| 56. | [ProGuard Directory](https://github.com/yogeshpaliyal/ProGuard-Director) | [Add More Libraries](https://github.com/yogeshpaliyal/ProGuard-Directory/issues/1) | `Android`

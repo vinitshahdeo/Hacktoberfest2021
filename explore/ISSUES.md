@@ -53,5 +53,9 @@
 | 51. | [Formica](https://github.com/felixfaisal/formica)| [Use Docker Volumes instead of Copy](https://github.com/felixfaisal/formica/issues/55) | `Docker` |
 | 52. | [CrossFire ❌🔥](https://github.com/KunalRaghav/Crossfire)| [Add more questions](https://github.com/KunalRaghav/Crossfire/issues/1) | `Kotlin` |
 | 53. | [Heel2Toe](https://github.com/saloni-15/Heel2Toe)| [Improve Footer Section](https://github.com/saloni-15/Heel2Toe/issues/1) | `HTML` `CSS` `JS` |
-| 54. | [strongbox](https://github.com/strongbox/strongbox)| [Improve Footer Section](https://github.com/strongbox/strongbox/issues/1730) | `Java` `Documentation`|
+| 54. | [strongbox](https://github.com/strongbox/strongbox)| [Centralize Documentation Links](https://github.com/strongbox/strongbox/issues/1730) | `Java` `Documentation`|
 | 55. | [Instagram Clone](https://github.com/cankush625/Instagram_Clone)| [Make camera button working](https://github.com/cankush625/Instagram_Clone/issues/8) | `Flutter` `Dart`|
+| 56. | [ProGuard Directory](https://github.com/yogeshpaliyal/ProGuard-Director) | [Add More Libraries](https://github.com/yogeshpaliyal/ProGuard-Directory/issues/1) | `Android`
+| 57. | [CrossFire ❌🔥](https://github.com/KunalRaghav/Crossfire)| [Use android viewBindings](https://github.com/KunalRaghav/Crossfire/issues/2) | `Kotlin` |
+| 58. | [Ghost](https://github.com/TryGhost/Ghost)| [Unable to import Members](https://github.com/TryGhost/Ghost/issues/13216) | `HTML` `CSS` `JS`|
+| 59. | [Scrapy](https://github.com/scrapy/scrapy)| [Remove UrlLengthMiddleware from default enabled middlewares](https://github.com/scrapy/scrapy/issues/5135) | `Python` |

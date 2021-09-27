@@ -127,3 +127,4 @@
 | 124. | Pooja Sabnani | :bird: [Twitter](https://twitter.com/poojasabnani93) <br>:mortar_board: [LinkedIn](https://www.linkedin.com/in/pooja-s93/) | [@py93](https://github.com/py93/)  | Software Engineer at Morgan Stanley. |
 | 125. | Ankita Saloni | 🐦[Twitter](https://twitter.com/saloniankita_) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/saloniankita/) | [@saloniankita](https://github.com/saloniankita) | Generation Google Scholar'21, Former ML Intern @Omdena, GitHub Campus Expert, Mentor @GirlScript Foundation |
 | 126. | Yogesh Choudhary Paliyal | [LinkedIn](https://www.linkedin.com/in/yogeshpaliyal/) | [@yogeshpaliyal](https://github.com/yogeshpaliyal) | Android Developer. Frequent Open Sourcer. Blogger |
+| 127. | Ankur Gupta | 🐦[Twitter](https://twitter.com/ankurg132) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/ankurg132/) | [@ankurg132](https://github.com/ankurg132) | Mentor@GWOC, interested in ML, Flutter, Devops and everything Open source. |

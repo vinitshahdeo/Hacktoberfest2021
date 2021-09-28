@@ -156,3 +156,5 @@
 | 143. | Aniket Prabhakar | 🐦[Twitter](https://twitter.com/aniketprab10?s=09) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/aniket-prabhakar/) |(https://github.com/aniketprabhakar) | Python Developer, open source and data science enthusiast, cloud practitioner |
 | 144. | Daksh Sethi | 🐦[Twitter](https://twitter.com/sethidaksh02) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/daksh-sethi/) | [@dakshsethi](https://github.com/dakshsethi) | Full Stack Web Developer, Open Souce Enthusiast, Mentor GWOC'21 |
 | 145. | Dinesh Kumar K | 🐦[Twitter](https://twitter.com/Data__Plumber) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/dineshkumar12004/) | [@dineshkumar12004](https://github.com/dineshkumar12004) | Open-Source Enthusiast, Contributor @GWoC'21❄️ |
+| 146. | Aman shrivastava |🎓 [LinkedIn](https://www.linkedin.com/in/aman-shrivastava04/) | [@Aman-shrivastava](https://github.com/aman34503) | Web Developer, Opensource Enthusiast, |
+

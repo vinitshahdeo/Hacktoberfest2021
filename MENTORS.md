@@ -160,3 +160,5 @@
 | 145. | Dinesh Kumar K | 🐦[Twitter](https://twitter.com/Data__Plumber) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/dineshkumar12004/) | [@dineshkumar12004](https://github.com/dineshkumar12004) | Open-Source Enthusiast, Contributor @GWoC'21❄️ |
 | 146. | Aman shrivastava |🎓 [LinkedIn](https://www.linkedin.com/in/aman-shrivastava04/) | [@Aman-shrivastava](https://github.com/aman34503) | Web Developer, Opensource Enthusiast, |
 | 147. | Rakesh Vaddi | 🐦[Twitter](https://twitter.com/deephunt3r) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/rakesh116/) | [@deephunt3r](https://github.com/deephunt3r) | Frontend Web Developer, Open source enthusiast & Security Researcher|
+| 148. | Ravi Shankar Singh | 🐦[Twitter](https://twitter.com/imRaviSSingh) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/itsravishankarsingh/) | [@ravishankarsingh1996](https://github.com/ravishankarsingh1996) | Tech Lead at Mobcoder, Senior Android and Flutter Developer, Opensource Enthusiast :octocat: |
+

@@ -1,9 +1,9 @@
 ### Provide your information
 
-- Name: <Add your name here>
-- LinkedIn: <Add link to your Linkedin profile>
-- Twitter: <Add link to your Twitter profile>
-- About: <Short bio about you>
+- Name: Vishnu R Potti
+- LinkedIn: https://www.linkedin.com/in/vishnu-r-potti-91b131203/
+- Twitter: https://twitter.com/vishnurr2k01
+- About: Opensouce enthusiast,React developer,UI designer,Gwoc'21,Gssoc'21 contributor 
 
 ### Why do you want to become a mentor (optional)
 

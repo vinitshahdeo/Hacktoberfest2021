@@ -53,5 +53,19 @@
 | 51. | [Formica](https://github.com/felixfaisal/formica)| [Use Docker Volumes instead of Copy](https://github.com/felixfaisal/formica/issues/55) | `Docker` |
 | 52. | [CrossFire ❌🔥](https://github.com/KunalRaghav/Crossfire)| [Add more questions](https://github.com/KunalRaghav/Crossfire/issues/1) | `Kotlin` |
 | 53. | [Heel2Toe](https://github.com/saloni-15/Heel2Toe)| [Improve Footer Section](https://github.com/saloni-15/Heel2Toe/issues/1) | `HTML` `CSS` `JS` |
-| 54. | [strongbox](https://github.com/strongbox/strongbox)| [Improve Footer Section](https://github.com/strongbox/strongbox/issues/1730) | `Java` `Documentation`|
+| 54. | [strongbox](https://github.com/strongbox/strongbox)| [Centralize Documentation Links](https://github.com/strongbox/strongbox/issues/1730) | `Java` `Documentation`|
 | 55. | [Instagram Clone](https://github.com/cankush625/Instagram_Clone)| [Make camera button working](https://github.com/cankush625/Instagram_Clone/issues/8) | `Flutter` `Dart`|
+| 56. | [ProGuard Directory](https://github.com/yogeshpaliyal/ProGuard-Director) | [Add More Libraries](https://github.com/yogeshpaliyal/ProGuard-Directory/issues/1) | `Android`
+| 57. | [CrossFire ❌🔥](https://github.com/KunalRaghav/Crossfire)| [Use android viewBindings](https://github.com/KunalRaghav/Crossfire/issues/2) | `Kotlin` |
+| 58. | [Ghost](https://github.com/TryGhost/Ghost)| [Unable to import Members](https://github.com/TryGhost/Ghost/issues/13216) | `HTML` `CSS` `JS`|
+| 59. | [Scrapy](https://github.com/scrapy/scrapy)| [Remove UrlLengthMiddleware from default enabled middlewares](https://github.com/scrapy/scrapy/issues/5135) | `Python` |
+| 60. | [Opentek Web](https://github.com/Opentek-Org/opentek)| [Redesign and Add New Cards](https://github.com/Opentek-Org/opentek/issues/64) |  `HTML` `CSS` `JS` |
+| 61. | [Opentek Web](https://github.com/Opentek-Org/opentek)| [Add Hackathon Page using Web Scraping](https://github.com/Opentek-Org/opentek/issues/18) |  `HTML` `CSS` `NodeJS` |
+| 62. | [Opentek Web](https://github.com/Opentek-Org/opentek)| [Add more OPEN SOURCE programs and events ](https://github.com/Opentek-Org/opentek/issues/69) |  `HTML` `CSS` `JS` |
+| 63. | [Programming-Basics ](https://github.com/Astrodevil/Programming-Basics)| [Add Some C++ files](https://github.com/Astrodevil/Programming-Basics/issues/4) | `C++` |
+| 64. | [MovieTray](https://github.com/niharika2810/MovieTray)| [Try to find issues with the app and propose a solution.](https://github.com/niharika2810/MovieTray/issues/2) | `Kotlin` |
+| 65. | [Android Development Best Practices](https://github.com/niharika2810/android-development-best-practices)| [Add more Android developments best practices to help the world](https://github.com/niharika2810/android-development-best-practices/issues/5) | `Android` |
+| 66. | [Android Interview Questions](https://github.com/niharika2810/android-interview-questions)| [Add more Interview questions based on your experience](https://github.com/niharika2810/android-interview-questions/issues/4) | `Android` |
+| 67. | [Appsmith](https://github.com/appsmithorg/appsmith)| [Good first issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+bug+label%3A%22Good+First+Issue%22) | `JavaScript` `Java` |
+| 68. | [TypeScript](https://github.com/microsoft/TypeScript) | [Improve Documentation](https://github.com/microsoft/TypeScript/issues/45876) | `JavaScript` `TypeScript` |
+| 69. | [Chat-App](https://github.com/cankush625/Chat-App) | [Improve Profile Screen](https://github.com/cankush625/Chat-App/issues/4) | `Flutter` `Dart` `Google Maps API` `Firebase` |

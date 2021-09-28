@@ -69,3 +69,8 @@
 | 67. | [Appsmith](https://github.com/appsmithorg/appsmith)| [Good first issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+bug+label%3A%22Good+First+Issue%22) | `JavaScript` `Java` |
 | 68. | [TypeScript](https://github.com/microsoft/TypeScript) | [Improve Documentation](https://github.com/microsoft/TypeScript/issues/45876) | `JavaScript` `TypeScript` |
 | 69. | [Chat-App](https://github.com/cankush625/Chat-App) | [Improve Profile Screen](https://github.com/cankush625/Chat-App/issues/4) | `Flutter` `Dart` `Google Maps API` `Firebase` |
+| 70. | [Portfolio](https://github.com/wimpywarlord/wimpywarlord.github.io) | [Fix Spelling Free Lance](https://github.com/wimpywarlord/wimpywarlord.github.io/issues/5)  | `HTML`  |
+| 71. | [Amigos](https://github.com/wimpywarlord/Amigos) | [Reposition the Disclaimer Button](https://github.com/wimpywarlord/Amigos/issues/1)  | `CSS` |
+| 72. | [GoodMorning Girlfriend](https://github.com/wimpywarlord/Goodmorning-Girlfriend) | [Rick Roll the User](https://github.com/wimpywarlord/Goodmorning-Girlfriend/issues/1)  | `HTML`  |
+| 73. | [Btech-Blueprint](https://github.com/wimpywarlord/BTech-Blueprint) | [Fix Spelling Free Lance](https://github.com/wimpywarlord/BTech-Blueprint/issues/1)  | `HTML`  |
+| 74. | [AutoDocs](https://github.com/wimpywarlord/wimpywarlord.github.io) | [Authorize new Login Credentials](https://github.com/wimpywarlord/wimpywarlord.github.io/issues/5)  | `JAVASCRIPT`  |

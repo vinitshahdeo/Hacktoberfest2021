@@ -154,4 +154,4 @@
 | 141. | Harshjot Singh | 🐦[Twitter](https://twitter.com/harshjot1469) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/harshjot-singh) | [@Harsh-jot](http://github.com/Harsh-jot) | Web Developer, Curious Learner and Open-Source Enthusiast
 | 142. | Pasupula Sai Pavan Sathwik | 🎓 [LinkedIn](https://www.linkedin.com/in/sathwik-pasupula-7b36a6196) | [pspsathwik](https://github.com/pspsathwik) | AI & ML Enthusiastic | 
 | 143. | Aniket Prabhakar | 🐦[Twitter](https://twitter.com/aniketprab10?s=09) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/aniket-prabhakar/) |(https://github.com/aniketprabhakar) | Python Developer, open source and data science enthusiast, cloud practitioner |
-
+| 144. | Daksh Sethi | 🐦[Twitter](https://twitter.com/sethidaksh02) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/daksh-sethi/) | [@dakshsethi](https://github.com/dakshsethi) | Full Stack Web Developer, Open Souce Enthusiast, Mentor GWOC'21 |

@@ -59,3 +59,6 @@
 | 57. | [CrossFire ❌🔥](https://github.com/KunalRaghav/Crossfire)| [Use android viewBindings](https://github.com/KunalRaghav/Crossfire/issues/2) | `Kotlin` |
 | 58. | [Ghost](https://github.com/TryGhost/Ghost)| [Unable to import Members](https://github.com/TryGhost/Ghost/issues/13216) | `HTML` `CSS` `JS`|
 | 59. | [Scrapy](https://github.com/scrapy/scrapy)| [Remove UrlLengthMiddleware from default enabled middlewares](https://github.com/scrapy/scrapy/issues/5135) | `Python` |
+| 60. | [Opentek Web](https://github.com/Opentek-Org/opentek)| [Redesign and Add New Cards](https://github.com/Opentek-Org/opentek/issues/64) |  `HTML` `CSS` `JS` |
+| 61. | [Opentek Web](https://github.com/Opentek-Org/opentek)| [Add Hackathon Page using Web Scraping](https://github.com/Opentek-Org/opentek/issues/18) |  `HTML` `CSS` `NodeJS` |
+| 62. | [Opentek Web](https://github.com/Opentek-Org/opentek)| [Add more OPEN SOURCE programs and events ](https://github.com/Opentek-Org/opentek/issues/69) |  `HTML` `CSS` `JS` |

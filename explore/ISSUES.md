@@ -59,3 +59,5 @@
 | 57. | [CrossFire ❌🔥](https://github.com/KunalRaghav/Crossfire)| [Use android viewBindings](https://github.com/KunalRaghav/Crossfire/issues/2) | `Kotlin` |
 | 58. | [Ghost](https://github.com/TryGhost/Ghost)| [Unable to import Members](https://github.com/TryGhost/Ghost/issues/13216) | `HTML` `CSS` `JS`|
 | 59. | [Scrapy](https://github.com/scrapy/scrapy)| [Remove UrlLengthMiddleware from default enabled middlewares](https://github.com/scrapy/scrapy/issues/5135) | `Python` |
+| 60. | [Programming-Basics ](https://github.com/Astrodevil/Programming-Basics)| [Add Some C++ files](https://github.com/Astrodevil/Programming-Basics/issues/4) | `C++` |
+

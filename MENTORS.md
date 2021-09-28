@@ -133,4 +133,6 @@
 | 129. | Keshav Mohta | 🐦[Twitter](https://twitter.com/xkeshav) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/xkeshav/) | [@xkeshav](https://github.com/xkeshav) |UI Lead at Barclays|
 | 130. | Aditya Thakur | 🐦[Twitter](https://twitter.com/adityathakurxd) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/adityathakurxd/) | [@adityathakurxd](https://github.com/adityathakurxd) |Developer and Designer, YouTube (4.45K), 450+ Developer Community on Discord|
 | 131. | Kapil Bansal | 🐦[Twitter](https://twitter.com/devkapilbansal) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/devkapilbansal/) | [@devkapilbansal](https://github.com/devkapilbansal) | Python Lover, Backend Developer, GSOC 2021 Student@OpenWISP, Anitab-org OS Leader|
-| 132. | Rakesh Vaddi | 🐦[Twitter](https://twitter.com/deephunt3r) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/rakesh116/) | [@deephunt3r](https://github.com/deephunt3r) | Frontend Web Developer, Open source enthusiast & Security Researcher|
+| 132. | Shivay Lamba | 🐦[Twitter](https://twitter.com/howdevelop) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/shivaylamba/) | [@shivaylamba](https://github.com/shivaylamba) | Machine Learning, Web Developer, GSOC Mentor, LFX Mentor, MLH Fellow|
+| 133. | Rakesh Vaddi | 🐦[Twitter](https://twitter.com/deephunt3r) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/rakesh116/) | [@deephunt3r](https://github.com/deephunt3r) | Frontend Web Developer, Open source enthusiast & Security Researcher|
+

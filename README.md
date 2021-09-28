@@ -1,7 +1,7 @@
 [![Hacktoberfest 2021](./assets/logo.png)](https://vinitshahdeo.dev/hacktoberfest-2021)
 # Hacktoberfest 2021
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&style=flat)](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/master/LICENSE) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FHacktoberfest2021&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://vinitshahdeo.github.io/Hacktoberfest2021/) [![Check out blog on Hashnode](https://img.shields.io/badge/Check%20blog-2962FF?logo=hashnode&logoColor=white)](https://vinitshahdeo.dev/beginner-friendly-issues-for-hacktoberfest-2021) [![Join our Discord](https://img.shields.io/badge/Join-Discord-8CA1A5?logo=discord&logoColor=white)](https://discord.gg/HFbr3pnqxj)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&style=flat)](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/master/LICENSE) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FHacktoberfest2021&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://vinitshahdeo.github.io/Hacktoberfest2021/) [![Check out blog on Hashnode](https://img.shields.io/badge/Check%20blog-2962FF?logo=hashnode&logoColor=white)](https://vinitshahdeo.dev/beginner-friendly-issues-for-hacktoberfest-2021) [![Join our Discord](https://img.shields.io/badge/Join-Discord-8CA1A5?logo=discord&logoColor=white)](https://discord.gg/MgA48yUjVK)
 
 
 
@@ -97,7 +97,7 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | 52. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Adding a sidebar index in standard output](https://github.com/prafulla-codes/express-autodocs/issues/19) | `Javascript ExpressJs` |
 | 53. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Beautify standard documentation page](https://github.com/prafulla-codes/express-autodocs/issues/2) | `Javascript ExpressJs`|
 
-> ### Find complete list of beginner-friendly repositories at [`ISSUES.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/ISSUES.md)
+### Find complete list of beginner-friendly repositories at [`ISSUES.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/ISSUES.md)
 
 ## Beginner-friendly repositories
 

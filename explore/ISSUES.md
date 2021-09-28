@@ -59,3 +59,8 @@
 | 57. | [CrossFire ❌🔥](https://github.com/KunalRaghav/Crossfire)| [Use android viewBindings](https://github.com/KunalRaghav/Crossfire/issues/2) | `Kotlin` |
 | 58. | [Ghost](https://github.com/TryGhost/Ghost)| [Unable to import Members](https://github.com/TryGhost/Ghost/issues/13216) | `HTML` `CSS` `JS`|
 | 59. | [Scrapy](https://github.com/scrapy/scrapy)| [Remove UrlLengthMiddleware from default enabled middlewares](https://github.com/scrapy/scrapy/issues/5135) | `Python` |
+| 60. | [Portfolio](https://github.com/wimpywarlord/wimpywarlord.github.io) | [Fix Spelling Free Lance](https://github.com/wimpywarlord/wimpywarlord.github.io/issues/5)  | `HTML`  |
+| 61. | [Amigos](https://github.com/wimpywarlord/Amigos) | [Reposition the Disclaimer Button](https://github.com/wimpywarlord/Amigos/issues/1)  | `CSS` |
+| 62. | [GoodMorning Girlfriend](https://github.com/wimpywarlord/Goodmorning-Girlfriend) | [Rick Roll the User](https://github.com/wimpywarlord/Goodmorning-Girlfriend/issues/1)  | `HTML`  |
+| 63. | [Btech-Blueprint](https://github.com/wimpywarlord/BTech-Blueprint) | [Fix Spelling Free Lance](https://github.com/wimpywarlord/BTech-Blueprint/issues/1)  | `HTML`  |
+| 64. | [AutoDocs](https://github.com/wimpywarlord/wimpywarlord.github.io) | [Authorize new Login Credentials](https://github.com/wimpywarlord/wimpywarlord.github.io/issues/5)  | `JAVASCRIPT`  |

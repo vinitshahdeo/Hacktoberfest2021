@@ -159,4 +159,5 @@
 | 154. | Shubham Kumar | 🐦[Twitter](https://twitter.com/dangling_coder) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/shubhamkumar817/) | [@shubham-kumar10](https://github.com/shubham-kumar10) | Software Engineer at MakeMyTrip |
 | 155. | Nivedita Datta | 🎓 [LinkedIn](https://www.linkedin.com/in/nivedita-datta/) | [@nivdatta](https://github.com/nivdatta/) | Android Developer, Blogger, Flutter Enthusiast and open to learning new things 🎉 |
 | 156. | Shreyansh Malviya | 🐦[Twitter](https://twitter.com/shreyanshmalvya) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/shreyanshmalvya/) | [@shreyanshmalvya](https://github.com/shreyanshmalvya) | MERN Stack Developer, Open Source Enthusiast, Founder @Kisan-AI
+| 157. | Pranav Desai | 🐦[Twitter](https://twitter.com/PranavvvDesai) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/pranavvdesai/) | [@pranavvdesai](https://github.com/pranavvdesai) | MERN Stack Developer, Blockchain Enthusiast
 

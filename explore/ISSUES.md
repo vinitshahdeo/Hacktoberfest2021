@@ -74,5 +74,7 @@
 | 72. | [GoodMorning Girlfriend](https://github.com/wimpywarlord/Goodmorning-Girlfriend) | [Rick Roll the User](https://github.com/wimpywarlord/Goodmorning-Girlfriend/issues/1)  | `HTML`  |
 | 73. | [Btech-Blueprint](https://github.com/wimpywarlord/BTech-Blueprint) | [Fix Spelling Free Lance](https://github.com/wimpywarlord/BTech-Blueprint/issues/1)  | `HTML`  |
 | 74. | [AutoDocs](https://github.com/wimpywarlord/wimpywarlord.github.io) | [Authorize new Login Credentials](https://github.com/wimpywarlord/wimpywarlord.github.io/issues/5)  | `JAVASCRIPT`  |
-| 55. | [Ktor Quote API](https://github.com/shmehdi01/quote_api_ktor)| [Add Profile Api For User](https://github.com/shmehdi01/quote_api_ktor/issues) | `Kotlin` `Ktor`|
-| 55. | [Quote APP(KMM)](https://github.com/shmehdi01/quote-app-kmm)| [Improve Login Screen (Compose)](https://github.com/shmehdi01/quote-app-kmm/issues) | `Kotlin` `KMM`|
+| 75. | [Ktor Quote API](https://github.com/shmehdi01/quote_api_ktor)| [Add Profile Api For User](https://github.com/shmehdi01/quote_api_ktor/issues) | `Kotlin` `Ktor`|
+| 76. | [Quote APP(KMM)](https://github.com/shmehdi01/quote-app-kmm)| [Improve Login Screen (Compose)](https://github.com/shmehdi01/quote-app-kmm/issues) | `Kotlin` `KMM`|
+
+

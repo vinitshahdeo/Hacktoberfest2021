@@ -163,5 +163,5 @@
 | 158. | Sukhjit Singh | 🐦[Twitter](https://twitter.com/SUKHJIT41040858) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/sukhjit-singh-6a35931b5/) | [@SUKHJIT-CYBER](https://github.com/SUKHJIT-CYBER) | GWOC'21<Contributor>💻 , HackThisFall Evengelist🙆‍♂️ , Udacity AWS ML Scholar
 | 159. | Suraj Mulchandani | 🐦[Twitter](https://twitter.com/surajstwt) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/suraj-mulchandani-00244718b/) | [@surajm-333](https://github.com/surajm-333) | Software Engineer Intern @ Summachar, HackThisFall Evangelist, LGMSoC'21
 | 160. | Agamjot Singh | 🐦[Twitter](https://twitter.com/Agamjot_Singh18) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/agamjot-singh/) | [@agamjotsingh18](https://github.com/agamjotsingh18) | Full Stack Developer, Founder @CodeSetGo
-
+| 161. | Abhishek Sharma | 🐦[Twitter](https://twitter.com/Abhishe08346491) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/abhishek-sharma-aa06a9183/) | [@abhisheks008](https://github.com/abhisheks008) | A Software Developer, with excellent problem solving skills, passionate about ML and Open Source, talks about Research and Innovation in Modern Technology, Mentored 150+ newbies in Open Source programs.
 

@@ -156,4 +156,6 @@
 | 151. | Shruti Jawale | 🐦[Twitter](https://twitter.com/ShrutiJawale4) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/shruti-jawale-512912199/) | [@Manisha069](https://github.com/ShrutiJ-01) | Flutter and VR enthusiast!
 | 152. | Aaditya Paithane | 🐦[Twitter](https://twitter.com/Aadityamp) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/aadityampaithane) | [@aadityamp01](https://github.com/aadityamp01) | Android Developer, Open source and hackathon enthusiast, Competitive Coder |
 | 153. | Sneha Chattopadhyay | 🎓 [LinkedIn](https://www.linkedin.com/in/sneha-chattopadhyay-a390741a7/) | [@sneha-nitdgp](https://github.com/sneha-nitdgp) | Generation Google Scholar'21, LinkedIn CoachIn'21, Mentor at GWOC'21, Web Developer, Competitive Programmer. |
-| 154. | Nivedita Datta | 🎓 [LinkedIn](https://www.linkedin.com/in/nivedita-datta/) | [@nivdatta](https://github.com/nivdatta/) | Android Developer, Blogger, Flutter Enthusiast and open to learning new things 🎉 |
+| 154. | Shubham Kumar | 🐦[Twitter](https://twitter.com/dangling_coder) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/shubhamkumar817/) | [@shubham-kumar10](https://github.com/shubham-kumar10) | Software Engineer at MakeMyTrip |
+| 155. | Nivedita Datta | 🎓 [LinkedIn](https://www.linkedin.com/in/nivedita-datta/) | [@nivdatta](https://github.com/nivdatta/) | Android Developer, Blogger, Flutter Enthusiast and open to learning new things 🎉 |
+

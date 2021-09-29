@@ -172,7 +172,7 @@ As a mentor, you will:
 
 🤝 **welcome and help others to finish the Hacktoberfest challenge**.
 
-Please refer to [this blog](https://vinitshahdeo.dev/beginner-friendly-issues-for-hacktoberfest-2021) to learn more.
+Please refer to [this blog](https://vinitshahdeo.dev/hacktoberfest-2021) to learn more.
 
 
 ## Need help

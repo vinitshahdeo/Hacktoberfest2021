@@ -161,5 +161,5 @@
 | 156. | Shreyansh Malviya | 🐦[Twitter](https://twitter.com/shreyanshmalvya) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/shreyanshmalvya/) | [@shreyanshmalvya](https://github.com/shreyanshmalvya) | MERN Stack Developer, Open Source Enthusiast, Founder @Kisan-AI
 | 157. | Pranav Desai | 🐦[Twitter](https://twitter.com/PranavvvDesai) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/pranavvdesai/) | [@pranavvdesai](https://github.com/pranavvdesai) | MERN Stack Developer, Blockchain Enthusiast
 | 158. | Sukhjit Singh | 🐦[Twitter](https://twitter.com/SUKHJIT41040858) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/sukhjit-singh-6a35931b5/) | [@SUKHJIT-CYBER](https://github.com/SUKHJIT-CYBER) | GWOC'21<Contributor>💻 , HackThisFall Evengelist🙆‍♂️ , Udacity AWS ML Scholar
-
+| 159. | Abhishek Sharma | 🐦[Twitter](https://twitter.com/Abhishe08346491) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/abhishek-sharma-aa06a9183/) | [@abhisheks008](https://github.com/abhisheks008) | A Software Developer, with excellent problem solving skills, passionate about ML and Open Source, talks about Research and Innovation in Modern Technology, Mentored 150+ newbies in Open Source programs.
 

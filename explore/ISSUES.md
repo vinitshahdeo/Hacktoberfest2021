@@ -76,5 +76,5 @@
 | 74. | [AutoDocs](https://github.com/wimpywarlord/wimpywarlord.github.io) | [Authorize new Login Credentials](https://github.com/wimpywarlord/wimpywarlord.github.io/issues/5)  | `JAVASCRIPT`  |
 | 75. | [Ktor Quote API](https://github.com/shmehdi01/quote_api_ktor)| [Add Profile Api For User](https://github.com/shmehdi01/quote_api_ktor/issues) | `Kotlin` `Ktor`|
 | 76. | [Quote APP(KMM)](https://github.com/shmehdi01/quote-app-kmm)| [Improve Login Screen (Compose)](https://github.com/shmehdi01/quote-app-kmm/issues) | `Kotlin` `KMM`|
-
+| 77. | [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)| [Create A Name Card With Your Info](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/README.md) | `HTML`|
 

@@ -161,6 +161,7 @@
 | 156. | Shreyansh Malviya | 🐦[Twitter](https://twitter.com/shreyanshmalvya) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/shreyanshmalvya/) | [@shreyanshmalvya](https://github.com/shreyanshmalvya) | MERN Stack Developer, Open Source Enthusiast, Founder @Kisan-AI
 | 157. | Pranav Desai | 🐦[Twitter](https://twitter.com/PranavvvDesai) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/pranavvdesai/) | [@pranavvdesai](https://github.com/pranavvdesai) | MERN Stack Developer, Blockchain Enthusiast
 | 158. | Sukhjit Singh | 🐦[Twitter](https://twitter.com/SUKHJIT41040858) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/sukhjit-singh-6a35931b5/) | [@SUKHJIT-CYBER](https://github.com/SUKHJIT-CYBER) | GWOC'21<Contributor>💻 , HackThisFall Evengelist🙆‍♂️ , Udacity AWS ML Scholar
-| 159. | Agamjot Singh | 🐦[Twitter](https://twitter.com/Agamjot_Singh18) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/agamjot-singh/) | [@agamjotsingh18](https://github.com/agamjotsingh18) | Full Stack Developer, Founder @CodeSetGo
+| 159. | Suraj Mulchandani | 🐦[Twitter](https://twitter.com/surajstwt) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/suraj-mulchandani-00244718b/) | [@surajm-333](https://github.com/surajm-333) | Software Engineer Intern @ Summachar, HackThisFall Evangelist, LGMSoC'21
+| 160. | Agamjot Singh | 🐦[Twitter](https://twitter.com/Agamjot_Singh18) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/agamjot-singh/) | [@agamjotsingh18](https://github.com/agamjotsingh18) | Full Stack Developer, Founder @CodeSetGo
 
 

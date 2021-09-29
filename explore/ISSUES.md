@@ -78,3 +78,6 @@
 | 76. | [Quote APP(KMM)](https://github.com/shmehdi01/quote-app-kmm)| [Improve Login Screen (Compose)](https://github.com/shmehdi01/quote-app-kmm/issues) | `Kotlin` `KMM`|
 | 77. | [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)| [Create A Name Card With Your Info](https://github.com/Syknapse/Contribute-To-This-Project/blob/master/README.md) | `HTML`|
 | 78. | [Chatwoot](https://github.com/chatwoot/chatwoot) | [List is not rendering properly in the dashboard UI](https://github.com/chatwoot/chatwoot/issues/3081) | `HTML` `SCSS` `JavaScript` `Ruby` `Vue.Js` |
+| 79. | [Motion-Layout-Samples](https://github.com/yogeshpaliyal/Motion-Layout-Samples) | [Add more samples](https://github.com/yogeshpaliyal/Motion-Layout-Samples/issues/1) | `Android` |
+| 80. | [Android-Universal-Recycler-View-Adapter](https://github.com/yogeshpaliyal/Android-Universal-Recycler-View-Adapter) | [Add More Examples](https://github.com/yogeshpaliyal/Android-Universal-Recycler-View-Adapter/issues/13) | `Android` `Kotlin` |
+| 81. | [Android-Universal-Recycler-View-Adapter](https://github.com/yogeshpaliyal/Android-Universal-Recycler-View-Adapter) | [Readme is very cluttered](https://github.com/yogeshpaliyal/Android-Universal-Recycler-View-Adapter/issues/12) | `Android` `Markdown` |

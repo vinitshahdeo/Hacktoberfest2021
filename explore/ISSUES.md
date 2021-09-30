@@ -81,3 +81,4 @@
 | 79. | [Motion-Layout-Samples](https://github.com/yogeshpaliyal/Motion-Layout-Samples) | [Add more samples](https://github.com/yogeshpaliyal/Motion-Layout-Samples/issues/1) | `Android` |
 | 80. | [Android-Universal-Recycler-View-Adapter](https://github.com/yogeshpaliyal/Android-Universal-Recycler-View-Adapter) | [Add More Examples](https://github.com/yogeshpaliyal/Android-Universal-Recycler-View-Adapter/issues/13) | `Android` `Kotlin` |
 | 81. | [Android-Universal-Recycler-View-Adapter](https://github.com/yogeshpaliyal/Android-Universal-Recycler-View-Adapter) | [Readme is very cluttered](https://github.com/yogeshpaliyal/Android-Universal-Recycler-View-Adapter/issues/12) | `Android` `Markdown` |
+| 81. | [COVID-19 Tracker 🇮🇳](https://github.com/vinitshahdeo/Corona-India) | [News API is not working](https://github.com/vinitshahdeo/Corona-India/issues/37) | `React` |

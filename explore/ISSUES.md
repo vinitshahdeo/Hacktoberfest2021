@@ -85,3 +85,4 @@
 | 83. | [GitHub LookBook](https://github.com/vinitshahdeo/GitHubLookBook) | [Show open issues and PRs in the repo card](https://github.com/vinitshahdeo/GitHubLookBook/issues/37) | `HTML` `CSS` `JavaScript` |
 | 84. | [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) | [Make hover tooltip show up automatically after specified delay](https://github.com/krassowski/jupyterlab-lsp/issues/362) | `Python` `TypeScript` `Python` `Robot-Framework` `JavaScript`  |
 | 85. | [Ultroid Userbot](https://github.com/TeamUltroid/Ultroid) | [Help to Complete Translation work.](https://github.com/TeamUltroid/Ultroid/issues/175) | `Python` |
+| 86. | [Tree Auto Planting](https://github.com/TerexitariusStomp/treeauto) | [Initial Coding Help](https://github.com/TerexitariusStomp/treeauto/issues/1)  | `Any Language`  |

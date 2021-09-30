@@ -85,4 +85,7 @@
 | 83. | [GitHub LookBook](https://github.com/vinitshahdeo/GitHubLookBook) | [Show open issues and PRs in the repo card](https://github.com/vinitshahdeo/GitHubLookBook/issues/37) | `HTML` `CSS` `JavaScript` |
 | 84. | [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) | [Make hover tooltip show up automatically after specified delay](https://github.com/krassowski/jupyterlab-lsp/issues/362) | `Python` `TypeScript` `Python` `Robot-Framework` `JavaScript`  |
 | 85. | [Ultroid Userbot](https://github.com/TeamUltroid/Ultroid) | [Help to Complete Translation work.](https://github.com/TeamUltroid/Ultroid/issues/175) | `Python` |
-| 86. | [Tree Auto Planting](https://github.com/TerexitariusStomp/treeauto) | [Initial Coding Help](https://github.com/TerexitariusStomp/treeauto/issues/1)  | `Any Language`  |
+| 86. | [keyboard-pro](https://github.com/hardeepnarang10/keyboard-pro) | [Add hover effect to reset button](https://github.com/hardeepnarang10/keyboard-pro/issues/1) | `CSS` |
+| 87. | [keyboard-pro](https://github.com/hardeepnarang10/keyboard-pro) | [Map event listeners to trigger state change](https://github.com/hardeepnarang10/keyboard-pro/issues/2) | `JavaScript` |
+| 88. | [Tree Auto Planting](https://github.com/TerexitariusStomp/treeauto) | [Initial Coding Help](https://github.com/TerexitariusStomp/treeauto/issues/1)  | `Any Language`  |
+

@@ -118,4 +118,3 @@
 | 115. | Manisha Gupta | 🐦[Twitter](https://twitter.com/manishawho) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/manisha-gupta-here/) | [@Manisha069](https://github.com/manisha069) | Stu-Amb @ AngelHacks, UI/UX Volunteer @ GirsScript EOP, Contributor @ GWoC | UI/UX desingner, Flutter Enthusiast and always open to learning new things!
 | 116. | Aayushi Mittal | 🐦[Twitter](https://twitter.com/_aayushimittal_) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/aayushi-mittal-309853196/) | [@Aayushi-Mittal](https://github.com/Aayushi-Mittal) | Web Developer, Tech Enthusiast, Mentor @GirlScript Winter Of Code |
 | 117. | Aman shrivastava | 🐦[Twitter](https://twitter.com/Amanscasm) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/aman-shrivastava04/) | [@Aman-shrivastava](https://github.com/aman34503) | Web Developer, Opensource Enthusiast, |
-

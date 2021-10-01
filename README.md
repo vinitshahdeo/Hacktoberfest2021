@@ -96,7 +96,6 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | 51. | [Formica](https://github.com/felixfaisal/formica)| [Use Docker Volumes instead of Copy](https://github.com/felixfaisal/formica/issues/55) | `Docker` |
 | 52. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Adding a sidebar index in standard output](https://github.com/prafulla-codes/express-autodocs/issues/19) | `Javascript ExpressJs` |
 | 53. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Beautify standard documentation page](https://github.com/prafulla-codes/express-autodocs/issues/2) | `Javascript ExpressJs`|
-| 54. | [Formica](https://github.com/felixfaisal/formica)| [Create Docker GitHub Action for Dev Environment](https://github.com/felixfaisal/formica/issues/87) | `Docker``GitHub Actions` |
 
 ### Find complete list of beginner-friendly repositories at [`ISSUES.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/ISSUES.md)
 

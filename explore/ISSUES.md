@@ -94,5 +94,6 @@
 | 91. | [GitHub Stars Feed](https://github.com/vinitshahdeo/github-stars-feed) | [Create a React App to show GitHub Star's feed in Card View](https://github.com/vinitshahdeo/github-stars-feed/issues/12) | `React` `Bootstrap` |
 | 92. | [Accordion](https://github.com/Sin-Sumit/Accordion) | [Make it Dynamic](https://github.com/Sin-Sumit/Accordion/issues) |  `ReactJs` |
 | 93. | [Heel2Toe](https://github.com/saloni-15/Heel2Toe) | [Add a navbar](https://github.com/saloni-15/Heel2Toe/issues/31) | `HTML` `CSS` `JS`|
-| 94. | [Formica](https://github.com/felixfaisal/formica)| [Create Docker GitHub Action for Dev Environment](https://github.com/felixfaisal/formica/issues/87) | `Docker``GitHub Actions` |
-| 95. | [Formica](https://github.com/felixfaisal/formica)| [Fix Flake8 Linting](https://github.com/felixfaisal/formica/issues) | `Python``Django` |
+| 94. | [Go-Airbnb](https://github.com/aman34503/Go-Airbnb) | [Create More Functionality_and Added Authorisation](https://github.com/aman34503/Go-Airbnb/issues/1) | `React` `MaterialUI` |
+| 95. | [Formica](https://github.com/felixfaisal/formica)| [Create Docker GitHub Action for Dev Environment](https://github.com/felixfaisal/formica/issues/87) | `Docker``GitHub Actions` |
+| 96. | [Formica](https://github.com/felixfaisal/formica)| [Fix Flake8 Linting](https://github.com/felixfaisal/formica/issues) | `Python``Django` |

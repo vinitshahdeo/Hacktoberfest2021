@@ -92,3 +92,4 @@
 | 89. | [react-widgets](https://github.com/vishal-codes/react-widgets) | [Add more languages](https://github.com/vishal-codes/react-widgets/issues/3) | `JavaScript` |
 | 90. | [PlanMyTrip](https://github.com/cankush625/PlanMyTrip) | [Refactor the News model](https://github.com/cankush625/PlanMyTrip/issues/1) | `Django` `Python` |
 | 91. | [GitHub Stars Feed](https://github.com/vinitshahdeo/github-stars-feed) | [Create a React App to show GitHub Star's feed in Card View](https://github.com/vinitshahdeo/github-stars-feed/issues/12) | `React` `Bootstrap` |
+| 92. | [Formica](https://github.com/felixfaisal/formica)| [Create Docker GitHub Action for Dev Environment](https://github.com/felixfaisal/formica/issues/87) | `Docker``GitHub Actions` |

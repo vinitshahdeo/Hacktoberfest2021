@@ -93,3 +93,4 @@
 | 90. | [PlanMyTrip](https://github.com/cankush625/PlanMyTrip) | [Refactor the News model](https://github.com/cankush625/PlanMyTrip/issues/1) | `Django` `Python` |
 | 91. | [GitHub Stars Feed](https://github.com/vinitshahdeo/github-stars-feed) | [Create a React App to show GitHub Star's feed in Card View](https://github.com/vinitshahdeo/github-stars-feed/issues/12) | `React` `Bootstrap` |
 | 92. | [Accordion](https://github.com/Sin-Sumit/Accordion) | [Make it Dynamic](https://github.com/Sin-Sumit/Accordion/issues) |  `ReactJs` |
+| 93. | [Heel2Toe](https://github.com/saloni-15/Heel2Toe) | [Add a navbar](https://github.com/saloni-15/Heel2Toe/issues/31) | `HTML` `CSS` `JS`|

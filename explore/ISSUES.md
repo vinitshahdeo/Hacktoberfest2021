@@ -82,7 +82,7 @@
 | 80. | [Android-Universal-Recycler-View-Adapter](https://github.com/yogeshpaliyal/Android-Universal-Recycler-View-Adapter) | [Add More Examples](https://github.com/yogeshpaliyal/Android-Universal-Recycler-View-Adapter/issues/13) | `Android` `Kotlin` |
 | 81. | [Android-Universal-Recycler-View-Adapter](https://github.com/yogeshpaliyal/Android-Universal-Recycler-View-Adapter) | [Readme is very cluttered](https://github.com/yogeshpaliyal/Android-Universal-Recycler-View-Adapter/issues/12) | `Android` `Markdown` |
 | 82. | [COVID-19 Tracker 🇮🇳](https://github.com/vinitshahdeo/Corona-India) | [News API is not working](https://github.com/vinitshahdeo/Corona-India/issues/37) | `React` |
-| 83. | [GitHub LookBook](https://github.com/vinitshahdeo/GitHubLookBook) | [Show open issues and PRs in the repo card](https://github.com/vinitshahdeo/GitHubLookBook/issues/37) | `HTML` `CSS` `JavaScript` |
+| 83. | [GitHub LookBook](https://github.com/vinitshahdeo/GitHubLookBook) | [Show open issues and PRs in the repo card](https://github.com/vinitshahdeo/GitHubLookBook/issues/3) | `HTML` `CSS` `JavaScript` |
 | 84. | [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) | [Make hover tooltip show up automatically after specified delay](https://github.com/krassowski/jupyterlab-lsp/issues/362) | `Python` `TypeScript` `Python` `Robot-Framework` `JavaScript`  |
 | 85. | [Ultroid Userbot](https://github.com/TeamUltroid/Ultroid) | [Help to Complete Translation work.](https://github.com/TeamUltroid/Ultroid/issues/175) | `Python` |
 | 86. | [keyboard-pro](https://github.com/hardeepnarang10/keyboard-pro) | [Add hover effect to reset button](https://github.com/hardeepnarang10/keyboard-pro/issues/1) | `CSS` |

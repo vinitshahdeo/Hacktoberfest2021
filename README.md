@@ -6,8 +6,6 @@
 
 > ### A community-led mentorship [initiative](https://dev.to/vinitshahdeo/calling-out-beginners-for-a-community-led-mentorship-opportunity-for-hacktoberfest-16gh) to help beginners kickstarting their open-source journey by completing Hacktoberfest'21 challenge.
 
-<sup>DISCLAIMER: We keep a check on all the projects being added to the list but there might still be a few projects which is excluded. Please be cautious about the same. Thanks for your cooperation to make this space better.</sup>
-
 👉 **How can you [get on board as a mentor](https://vinitshahdeo.dev/hacktoberfest-2021).** ✨
 
 👉 **Kindly [submit your details](https://forms.gle/GJSUTPBJ4Rw4DTMk9) if you're beginner who's looking for a mentor**. 🌈
@@ -138,6 +136,8 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | 30. | [Opentek Organization](https://github.com/Opentek-Org/opentek) | [![GitHub issues](https://img.shields.io/github/issues/Opentek-Org/opentek?color=red&logo=github&style=flat-square)](https://github.com/Opentek-Org/opentek/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Opentek-Org/opentek?style=social&logo=github)](https://github.com/Opentek-Org/opentek/pulls) | [![GitHub forks](https://img.shields.io/github/forks/Opentek-Org/opentek?style=flat-square&logo=git)](https://github.com/Opentek-Org/opentek/network/members) |
 | 31. | [express-autodocs](https://github.com/prafulla-codes/express-autodocs) | [![GitHub issues](https://img.shields.io/github/issues/prafulla-codes/express-autodocs?color=red&logo=github&style=flat-square)](https://github.com/prafulla-codes/express-autodocs/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prafulla-codes/express-autodocs?style=social&logo=github)](https://github.com/prafulla-codes/express-autodocs/pulls) | [![GitHub forks](https://img.shields.io/github/forks/prafulla-codes/express-autodocs?style=flat-square&logo=git)](https://github.com/prafulla-codes/express-autodocs/network/members) |
 | 32. | [Website](https://github.com/FayasNoushad/Website) | [![GitHub issues](https://img.shields.io/github/issues/FayasNoushad/Website?color=red&logo=github&style=flat-square)](https://github.com/FayasNoushad/Website/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/FayasNoushad/Website?style=social&logo=github)](https://github.com/FayasNoushad/Website/pulls) | [![GitHub forks](https://img.shields.io/github/forks/FayasNoushad/Website?style=flat-square&logo=git)](https://github.com/FayasNoushad/Website/network/members) |
+
+<sup>DISCLAIMER: We keep a check on all the projects being added to the list but there might still be a few projects which is excluded. Please be cautious about the same. Thanks for your cooperation to make this space better.</sup>
 
 ### Find complete list of beginner-friendly repositories at [`PROJECTS.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/PROJECTS.md)
 

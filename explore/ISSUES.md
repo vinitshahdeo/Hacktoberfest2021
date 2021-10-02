@@ -82,7 +82,7 @@
 | 80. | [Android-Universal-Recycler-View-Adapter](https://github.com/yogeshpaliyal/Android-Universal-Recycler-View-Adapter) | [Add More Examples](https://github.com/yogeshpaliyal/Android-Universal-Recycler-View-Adapter/issues/13) | `Android` `Kotlin` |
 | 81. | [Android-Universal-Recycler-View-Adapter](https://github.com/yogeshpaliyal/Android-Universal-Recycler-View-Adapter) | [Readme is very cluttered](https://github.com/yogeshpaliyal/Android-Universal-Recycler-View-Adapter/issues/12) | `Android` `Markdown` |
 | 82. | [COVID-19 Tracker 🇮🇳](https://github.com/vinitshahdeo/Corona-India) | [News API is not working](https://github.com/vinitshahdeo/Corona-India/issues/37) | `React` |
-| 83. | [GitHub LookBook](https://github.com/vinitshahdeo/GitHubLookBook) | [Show open issues and PRs in the repo card](https://github.com/vinitshahdeo/GitHubLookBook/issues/37) | `HTML` `CSS` `JavaScript` |
+| 83. | [GitHub LookBook](https://github.com/vinitshahdeo/GitHubLookBook) | [Show open issues and PRs in the repo card](https://github.com/vinitshahdeo/GitHubLookBook/issues/3) | `HTML` `CSS` `JavaScript` |
 | 84. | [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) | [Make hover tooltip show up automatically after specified delay](https://github.com/krassowski/jupyterlab-lsp/issues/362) | `Python` `TypeScript` `Python` `Robot-Framework` `JavaScript`  |
 | 85. | [Ultroid Userbot](https://github.com/TeamUltroid/Ultroid) | [Help to Complete Translation work.](https://github.com/TeamUltroid/Ultroid/issues/175) | `Python` |
 | 86. | [keyboard-pro](https://github.com/hardeepnarang10/keyboard-pro) | [Add hover effect to reset button](https://github.com/hardeepnarang10/keyboard-pro/issues/1) | `CSS` |
@@ -96,3 +96,11 @@
 | 93. | [Heel2Toe](https://github.com/saloni-15/Heel2Toe) | [Add a navbar](https://github.com/saloni-15/Heel2Toe/issues/31) | `HTML` `CSS` `JS`|
 | 94. | [Go-Airbnb](https://github.com/aman34503/Go-Airbnb) | [Create More Functionality_and Added Authorisation](https://github.com/aman34503/Go-Airbnb/issues/1) | `React` `MaterialUI` |
 | 95. | [University](https://github.com/adityathakurxd/university) | [Fix Sign In Screen](https://github.com/adityathakurxd/university/issues/24) | `Flutter` `Dart` `Firebase` |
+| 96. | [Chitthi](https://github.com/gauranshkumar/chithi) | [Update the Readme for the project](https://github.com/gauranshkumar/chithi/issues/2) | `Markdown` `Documentaion` |
+| 97. | [Chitthi](https://github.com/gauranshkumar/chithi) | [Refactoring the UI Code](https://github.com/gauranshkumar/chithi/issues/4) | `Python 3` `Streamlit Library` |
+| 98. | [Chitthi](https://github.com/gauranshkumar/chithi) | [Solidifiaction of the current App](https://github.com/gauranshkumar/chithi/issues/6) | `Python 3` `Streamlit Library` |
+| 99. | [Chitthi](https://github.com/gauranshkumar/chithi) | [Add New feature for Markdown Shortcut Supported Editor](https://github.com/gauranshkumar/chithi/issues/5) | `Python 3` `Streamlit Library` `Javascript` `HTML/CSS` `Markdown` |
+| 100. | [Hacktoberfest2021](https://github.com/prathamesh-borse/Hacktoberfest_2021/) | [Add More Projects](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) | `C++` `Java` `HTML` `Flutter` |
+| 101. | [Formica](https://github.com/felixfaisal/formica)| [Create Docker GitHub Action for Dev Environment](https://github.com/felixfaisal/formica/issues/87) | `Docker``GitHub Actions` |
+| 102. | [Formica](https://github.com/felixfaisal/formica)| [Fix Flake8 Linting](https://github.com/felixfaisal/formica/issues) | `Python``Django` |
+| 103. | [Hacktoberfest_2021](https://github.com/chandrikadeb7/Hacktoberfest_2021) | [Project Readme Ideas (Open to Discussion)](https://github.com/chandrikadeb7/Hacktoberfest_2021/issues/206) | `Markdown` |

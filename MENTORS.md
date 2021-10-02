@@ -194,4 +194,3 @@
 | 190. | Digvijay Srivastava| :bird: [Twitter](https://twitter.com/dig9074vijay) <br>:mortar_board: [LinkedIn](https://www.linkedin.com/in/dig9074vijay) | [@dig9074vijay](https://github.com/dig9074vijay)| Indie Game Developer and a ML enthusiast |
 | 191. | Ayush Gupta| :bird: [Twitter](https://twitter.com/AyushGu68644268) <br> 🎓 [LinkedIn](https://www.linkedin.com/in/ayush-gupta-274445200/) | [@dig9074vijay](https://github.com/ayushgupta0110)| Open Source Enthusiast, MERN Stack Developer and Blockchain Enthusiast |
 | 192. | Vinay Panchal| [Twitter](https://twitter.com/vinaynpp) <br>  [LinkedIn](https://www.linkedin.com/in/vinaynpp/) | [@vinaynpp](https://github.com/vinaynpp) | Finay Year Engineering Student & Founder of Pencil Computers |
-

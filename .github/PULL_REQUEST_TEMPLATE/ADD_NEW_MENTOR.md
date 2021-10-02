@@ -1,9 +1,9 @@
 ### Provide your information
 
-- Name: <Add your name here>
-- LinkedIn: <Add link to your Linkedin profile>
-- Twitter: <Add link to your Twitter profile>
-- About: <Short bio about you>
+- Name: Ruchir Agarwal
+- LinkedIn: I dont have a Linkedin profile yet
+- Twitter: Ruchir17
+- About: I am really passionate about coding, and i have learnt a lot on my own in languages like, python, javasacript, html and Linux.I am open to new experiences, and i would love to learn
 
 ### Why do you want to become a mentor (optional)
 

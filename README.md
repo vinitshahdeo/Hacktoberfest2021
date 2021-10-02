@@ -98,7 +98,7 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | 52. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Adding a sidebar index in standard output](https://github.com/prafulla-codes/express-autodocs/issues/19) | `Javascript ExpressJs` |
 | 53. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Beautify standard documentation page](https://github.com/prafulla-codes/express-autodocs/issues/2) | `Javascript ExpressJs`|
 
-### Find complete list of beginner-friendly repositories at [`ISSUES.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/ISSUES.md)
+### Find complete list of beginner-friendly issues at [`ISSUES.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/ISSUES.md)
 
 ## Beginner-friendly repositories
 

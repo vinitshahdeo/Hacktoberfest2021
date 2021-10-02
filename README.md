@@ -97,8 +97,10 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | 51. | [Formica](https://github.com/felixfaisal/formica)| [Use Docker Volumes instead of Copy](https://github.com/felixfaisal/formica/issues/55) | `Docker` |
 | 52. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Adding a sidebar index in standard output](https://github.com/prafulla-codes/express-autodocs/issues/19) | `Javascript ExpressJs` |
 | 53. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Beautify standard documentation page](https://github.com/prafulla-codes/express-autodocs/issues/2) | `Javascript ExpressJs`|
+| 54. | [SolverJs](https://github.com/suryapratapsinghsuryavanshi/solverjs)| [Provide more relative Method](https://github.com/suryapratapsinghsuryavanshi/solverjs/issues/2) | `Javascript NodeJs`|
+| 55. | [NASA-Media-Search](https://github.com/suryapratapsinghsuryavanshi/NASA-Media-Search)| [Beginner-friendly issues](https://github.com/suryapratapsinghsuryavanshi/NASA-Media-Search/issues/1) | `ReactJs Redux Jest`|
 
-### Find complete list of beginner-friendly repositories at [`ISSUES.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/ISSUES.md)
+### Find complete list of beginner-friendly issues at [`ISSUES.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/ISSUES.md)
 
 ## Beginner-friendly repositories
 
@@ -136,6 +138,8 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | 30. | [Opentek Organization](https://github.com/Opentek-Org/opentek) | [![GitHub issues](https://img.shields.io/github/issues/Opentek-Org/opentek?color=red&logo=github&style=flat-square)](https://github.com/Opentek-Org/opentek/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Opentek-Org/opentek?style=social&logo=github)](https://github.com/Opentek-Org/opentek/pulls) | [![GitHub forks](https://img.shields.io/github/forks/Opentek-Org/opentek?style=flat-square&logo=git)](https://github.com/Opentek-Org/opentek/network/members) |
 | 31. | [express-autodocs](https://github.com/prafulla-codes/express-autodocs) | [![GitHub issues](https://img.shields.io/github/issues/prafulla-codes/express-autodocs?color=red&logo=github&style=flat-square)](https://github.com/prafulla-codes/express-autodocs/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prafulla-codes/express-autodocs?style=social&logo=github)](https://github.com/prafulla-codes/express-autodocs/pulls) | [![GitHub forks](https://img.shields.io/github/forks/prafulla-codes/express-autodocs?style=flat-square&logo=git)](https://github.com/prafulla-codes/express-autodocs/network/members) |
 | 32. | [Website](https://github.com/FayasNoushad/Website) | [![GitHub issues](https://img.shields.io/github/issues/FayasNoushad/Website?color=red&logo=github&style=flat-square)](https://github.com/FayasNoushad/Website/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/FayasNoushad/Website?style=social&logo=github)](https://github.com/FayasNoushad/Website/pulls) | [![GitHub forks](https://img.shields.io/github/forks/FayasNoushad/Website?style=flat-square&logo=git)](https://github.com/FayasNoushad/Website/network/members) |
+
+<sup>DISCLAIMER: We keep a check on all the projects being added to the list but there might still be a few projects which is excluded. Please be cautious about the same. Thanks for your cooperation to make this space better.</sup>
 
 ### Find complete list of beginner-friendly repositories at [`PROJECTS.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/PROJECTS.md)
 

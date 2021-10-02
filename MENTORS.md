@@ -190,3 +190,5 @@
 | 186. | Husanpreet Singh | :bird: [Twitter](https://https://twitter.com/Husanbajwa991) <br>:mortar_board: [LinkedIn](https://www.linkedin.com/in/husanpreet-singh-/) | [@Husanbajwa](https://github.com/Husanbajwa/)  | Beguinner in devops field |
 | 187. | Rajdeep Das | 🐦[Twitter](https://twitter.com/itsrajdeepdas) <br> 🎓 [LinkedIn](https://www.linkedin.com/in/itsrajdeepdas/) | [@Rajspeaks](https://github.com/Rajspeaks) | Master of Computer Application Student at HIT-K. Founder of TheTechLearner, Former Mentor at GSSoC'21,SWoC'21 & Former Open Source Contributor at GSSoC'20, LGMSoC'21. Web-Dev, InfoSec, ML enthusiast |
 | 188. | Stuti Mishra | :bird: [Twitter](https://twitter.com/potatostuts) <br>:mortar_board: [LinkedIn](https://www.linkedin.com/in/stuti-mishra-71978162/) | [@Stuti-mishra](https://github.com/Stuti-mishra)  | Founder @Superposition Bhopal, ML Enthusiast,Cloudnative,MERN|
+| 189. | Sai Sudha Vadisina | 🐦[Twitter](https://twitter.com/vadisina) <br> 🎓 [LinkedIn](https://www.linkedin.com/in/saisudhavadisina/) | [@DevrajDC](https://github.com/SaiSudhaV) | Final year Computer Science undergrad, Frontend Developer & Open-Source Contributor|
+

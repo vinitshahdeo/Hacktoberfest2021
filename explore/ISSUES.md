@@ -96,3 +96,7 @@
 | 93. | [Heel2Toe](https://github.com/saloni-15/Heel2Toe) | [Add a navbar](https://github.com/saloni-15/Heel2Toe/issues/31) | `HTML` `CSS` `JS`|
 | 94. | [Go-Airbnb](https://github.com/aman34503/Go-Airbnb) | [Create More Functionality_and Added Authorisation](https://github.com/aman34503/Go-Airbnb/issues/1) | `React` `MaterialUI` |
 | 95. | [University](https://github.com/adityathakurxd/university) | [Fix Sign In Screen](https://github.com/adityathakurxd/university/issues/24) | `Flutter` `Dart` `Firebase` |
+| 96. | [Chitthi](https://github.com/gauranshkumar/chithi) | [Update the Readme for the project](https://github.com/gauranshkumar/chithi/issues/2) | `Markdown` `Documentaion` |
+| 97. | [Chitthi](https://github.com/gauranshkumar/chithi) | [Refactoring the UI Code](https://github.com/gauranshkumar/chithi/issues/4) | `Python 3` `Streamlit Library` |
+| 98. | [Chitthi](https://github.com/gauranshkumar/chithi) | [Solidifiaction of the current App](https://github.com/gauranshkumar/chithi/issues/6) | `Python 3` `Streamlit Library` |
+| 99. | [Chitthi](https://github.com/gauranshkumar/chithi) | [Add New feature for Markdown Shortcut Supported Editor](https://github.com/gauranshkumar/chithi/issues/5) | `Python 3` `Streamlit Library` `Javascript` `HTML/CSS` `Markdown` |

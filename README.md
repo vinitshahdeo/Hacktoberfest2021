@@ -6,6 +6,8 @@
 
 > ### A community-led mentorship [initiative](https://dev.to/vinitshahdeo/calling-out-beginners-for-a-community-led-mentorship-opportunity-for-hacktoberfest-16gh) to help beginners kickstarting their open-source journey by completing Hacktoberfest'21 challenge.
 
+<sup>DISCLAIMER: We keep a check on all the projects being added to the list but there might still be a few projects which is excluded. Please be cautious about the same. Thanks for your cooperation to make this space better.</sup>
+
 👉 **How can you [get on board as a mentor](https://vinitshahdeo.dev/hacktoberfest-2021).** ✨
 
 👉 **Kindly [submit your details](https://forms.gle/GJSUTPBJ4Rw4DTMk9) if you're beginner who's looking for a mentor**. 🌈
@@ -98,7 +100,7 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | 52. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Adding a sidebar index in standard output](https://github.com/prafulla-codes/express-autodocs/issues/19) | `Javascript ExpressJs` |
 | 53. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Beautify standard documentation page](https://github.com/prafulla-codes/express-autodocs/issues/2) | `Javascript ExpressJs`|
 
-### Find complete list of beginner-friendly repositories at [`ISSUES.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/ISSUES.md)
+### Find complete list of beginner-friendly issues at [`ISSUES.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/ISSUES.md)
 
 ## Beginner-friendly repositories
 

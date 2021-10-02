@@ -192,4 +192,4 @@
 | 188. | Stuti Mishra | :bird: [Twitter](https://twitter.com/potatostuts) <br>:mortar_board: [LinkedIn](https://www.linkedin.com/in/stuti-mishra-71978162/) | [@Stuti-mishra](https://github.com/Stuti-mishra)  | Founder @Superposition Bhopal, ML Enthusiast,Cloudnative,MERN|
 | 189. | Sai Sudha Vadisina | 🐦[Twitter](https://twitter.com/vadisina) <br> 🎓 [LinkedIn](https://www.linkedin.com/in/saisudhavadisina/) | [@DevrajDC](https://github.com/SaiSudhaV) | Final year Computer Science undergrad, Frontend Developer & Open-Source Contributor|
 | 190. | Digvijay Srivastava| :bird: [Twitter](https://twitter.com/dig9074vijay) <br>:mortar_board: [LinkedIn](https://www.linkedin.com/in/dig9074vijay) | [@dig9074vijay](https://github.com/dig9074vijay)| Indie Game Developer and a ML enthusiast |
-
+| 191. | Ayush Gupta| :bird: [Twitter](https://twitter.com/AyushGu68644268) <br> 🎓 [LinkedIn](https://www.linkedin.com/in/ayush-gupta-274445200/) | [@dig9074vijay](https://github.com/ayushgupta0110)| Open Source Enthusiast, MERN Stack Developer and Blockchain Enthusiast |

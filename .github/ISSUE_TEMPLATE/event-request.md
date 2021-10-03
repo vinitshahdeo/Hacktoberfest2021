@@ -17,4 +17,6 @@ assignees: vinitshahdeo
 
 - **Language of the event?** <Add language>
 
+- **What do you want event should be in offline or online mode?** <Add mode>
+
 - [ ] fill [this](https://forms.gle/7FQtAnFVJESSFXJ3A) google form.

@@ -104,3 +104,4 @@
 | 101. | [Formica](https://github.com/felixfaisal/formica)| [Create Docker GitHub Action for Dev Environment](https://github.com/felixfaisal/formica/issues/87) | `Docker``GitHub Actions` |
 | 102. | [Formica](https://github.com/felixfaisal/formica)| [Fix Flake8 Linting](https://github.com/felixfaisal/formica/issues) | `Python``Django` |
 | 103. | [Hacktoberfest_2021](https://github.com/chandrikadeb7/Hacktoberfest_2021) | [Project Readme Ideas (Open to Discussion)](https://github.com/chandrikadeb7/Hacktoberfest_2021/issues/206) | `Markdown` |
+| 104. | [Echo language](https://github.com/Ccode-lang/echo-lang) | [needs more commands](https://github.com/Ccode-lang/echo-lang/issues/1) | `Python` |

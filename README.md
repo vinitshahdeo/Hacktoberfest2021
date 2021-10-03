@@ -99,6 +99,7 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | 53. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Beautify standard documentation page](https://github.com/prafulla-codes/express-autodocs/issues/2) | `Javascript ExpressJs`|
 | 54. | [SolverJs](https://github.com/suryapratapsinghsuryavanshi/solverjs)| [Provide more relative Method](https://github.com/suryapratapsinghsuryavanshi/solverjs/issues/2) | `Javascript NodeJs`|
 | 55. | [NASA-Media-Search](https://github.com/suryapratapsinghsuryavanshi/NASA-Media-Search)| [Beginner-friendly issues](https://github.com/suryapratapsinghsuryavanshi/NASA-Media-Search/issues/1) | `ReactJs Redux Jest`|
+| 56. | [Live-Weather-Update](https://github.com/SHRIYANSHGAUR)| [Beginner-friendly issues](https://github.com/SHRIYANSHGAUR) | `Node.js Express Html Css`|
 
 ### Find complete list of beginner-friendly issues at [`ISSUES.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/ISSUES.md)
 

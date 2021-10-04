@@ -6,6 +6,8 @@
 
 3. Create a new Branch:
    > git branch  -YourBranchName-
+
+
    > git checkout  -YourBranchName-
 
 4. Make your contributions.
@@ -13,6 +15,8 @@
 
 5. Stage your changes and make a commit
    > git add .
+
+
    > git commit -m "<your_commit_message>"
 
 

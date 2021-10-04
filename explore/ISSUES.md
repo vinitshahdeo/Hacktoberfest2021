@@ -108,3 +108,4 @@
 | 105. | [DEVSTRONS' Contest Bot](https://github.com/devstrons/contest-bot) | [[FEATURE] Enhancement for invite & vote](https://github.com/devstrons/contest-bot/issues/10) | `Javascript` `discord.js` `Discord` |
 | 106. | [heloworld.xyz 👋](https://github.com/devstrons/heloworld.xyz) | [[BUG] Main webpage throws warnings](https://github.com/devstrons/heloworld.xyz/issues/68) | `Javascript` `Tailwind CSS` `website` |
 | 107. | [heloworld.xyz 👋](https://github.com/devstrons/heloworld.xyz) | [[BUG] Refresh animation hidden behind "Contribute" button](https://github.com/devstrons/heloworld.xyz/issues/69) | `Javascript` `Tailwind CSS` `website` |
+| 108. | [Machine Learning Minor Projects](https://github.com/Abhinav-26/Machine-Learning-Minor-Projects) | [[ENHANCEMENT] Organise the projects under appropriate topics](https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/issues) | `Python3` |

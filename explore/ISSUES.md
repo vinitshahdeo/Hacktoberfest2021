@@ -101,8 +101,8 @@
 | 98. | [Chitthi](https://github.com/gauranshkumar/chithi) | [Solidifiaction of the current App](https://github.com/gauranshkumar/chithi/issues/6) | `Python 3` `Streamlit Library` |
 | 99. | [Chitthi](https://github.com/gauranshkumar/chithi) | [Add New feature for Markdown Shortcut Supported Editor](https://github.com/gauranshkumar/chithi/issues/5) | `Python 3` `Streamlit Library` `Javascript` `HTML/CSS` `Markdown` |
 | 100. | [Hacktoberfest2021](https://github.com/prathamesh-borse/Hacktoberfest_2021/) | [Add More Projects](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) | `C++` `Java` `HTML` `Flutter` |
-| 101. | [Formica](https://github.com/felixfaisal/formica)| [Create Docker GitHub Action for Dev Environment](https://github.com/felixfaisal/formica/issues/87) | `Docker``GitHub Actions` |
-| 102. | [Formica](https://github.com/felixfaisal/formica)| [Fix Flake8 Linting](https://github.com/felixfaisal/formica/issues) | `Python``Django` |
+| 101. | [Formica](https://github.com/felixfaisal/formica)| [Create Docker GitHub Action for Dev Environment](https://github.com/felixfaisal/formica/issues/87) | `Docker` `GitHub Actions` |
+| 102. | [Formica](https://github.com/felixfaisal/formica)| [Fix Flake8 Linting](https://github.com/felixfaisal/formica/issues) | `Python` `Django` |
 | 103. | [Hacktoberfest_2021](https://github.com/chandrikadeb7/Hacktoberfest_2021) | [Project Readme Ideas (Open to Discussion)](https://github.com/chandrikadeb7/Hacktoberfest_2021/issues/206) | `Markdown` |
 | 104. | [Echo language](https://github.com/Ccode-lang/echo-lang) | [needs more commands](https://github.com/Ccode-lang/echo-lang/issues/1) | `Python` |
 | 105. | [DEVSTRONS' Contest Bot](https://github.com/devstrons/contest-bot) | [[FEATURE] Enhancement for invite & vote](https://github.com/devstrons/contest-bot/issues/10) | `Javascript` `discord.js` `Discord` |

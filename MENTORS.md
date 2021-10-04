@@ -196,3 +196,4 @@
 | 192. | Vinay Panchal| 🐦[Twitter](https://twitter.com/vinaynpp) <br> 🎓  [LinkedIn](https://www.linkedin.com/in/vinaynpp/) | [@vinaynpp](https://github.com/vinaynpp) | Finay Year Engineering Student & Founder of Pencil Computers |
 | 193. | Lajat Manekar | 🐦[Twitter](https://twitter.com/Lajat05) <br> 🎓 [LinkedIn](https://www.linkedin.com/in/lajat-manekar-50137317a/) | [@Lazeeez](https://github.com/Lazeeez)      | Incoming Software engineer at ElasticRun. |
 | 194. | Hamza Waleed | 🐦[Twitter](https://twitter.com/hamzawaleed0102) <br> 🎓 [LinkedIn](https://www.linkedin.com/in/hamza-waleed/) | [@hamzawaleed0102](https://github.com/hamzawaleed0102)      | Sr. Software Engineer |
+| 195. | Gary Hilares | 🐦[Twitter](https://twitter.com/GaryNLOL) | [@GaryNLOL](https://github.com/GaryNLOL)      | Highly motivated web developer |

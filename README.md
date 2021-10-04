@@ -56,7 +56,7 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | 10. | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Display cookies based on the filter i.e. regex(say github.com)](https://github.com/vinitshahdeo/Cookie-Manager/issues/3) | `JavaScript`  |
 | 11. | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Refactor code in background.js](https://github.com/vinitshahdeo/Cookie-Manager/issues/12) | `JavaScript`  |
 | 12. | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [[Documentation Missing] Add JSDoc](https://github.com/vinitshahdeo/Cookie-Manager/issues/13) | `JavaScript`  |
-| 13. | [Hacktoberfest-21-Open-First-PR](https://github.com/iamdevvalecha/Hacktoberfest-21-Open-First-PR) | [create first pr](https://github.com/iamdevvalecha/Hacktoberfest-21-Open-First-PR/issues/2) | `Markdown file`  |
+| 13. | [NASA-Media-Search](https://github.com/suryapratapsinghsuryavanshi/NASA-Media-Search)| [Beginner-friendly issues](https://github.com/suryapratapsinghsuryavanshi/NASA-Media-Search/issues/1) | `ReactJs Redux Jest`|
 | 14. | [Caucus](https://github.com/Rishabh-malhotraa/caucus/) | [Adding Zen Mode](https://github.com/Rishabh-malhotraa/caucus/issues/8) | `TypeScript`  |
 | 15. | [Caucus](https://github.com/Rishabh-malhotraa/caucus/) | [Improving Contrast on Hover](https://github.com/Rishabh-malhotraa/caucus/issues/30) | `CSS`  |
 | 16. | [DSA-Java](https://github.com/utkarsh1504/DSA-Java/) | [new lesson: Introduction to Arrays](https://github.com/utkarsh1504/DSA-Java/issues/1) | `Java`,`Markdown`,`Images` |
@@ -98,7 +98,6 @@ Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.di
 | 52. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Adding a sidebar index in standard output](https://github.com/prafulla-codes/express-autodocs/issues/19) | `Javascript ExpressJs` |
 | 53. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Beautify standard documentation page](https://github.com/prafulla-codes/express-autodocs/issues/2) | `Javascript ExpressJs`|
 | 54. | [SolverJs](https://github.com/suryapratapsinghsuryavanshi/solverjs)| [Provide more relative Method](https://github.com/suryapratapsinghsuryavanshi/solverjs/issues/2) | `Javascript NodeJs`|
-| 55. | [NASA-Media-Search](https://github.com/suryapratapsinghsuryavanshi/NASA-Media-Search)| [Beginner-friendly issues](https://github.com/suryapratapsinghsuryavanshi/NASA-Media-Search/issues/1) | `ReactJs Redux Jest`|
 
 ### Find complete list of beginner-friendly issues at [`ISSUES.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/ISSUES.md)
 

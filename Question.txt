@@ -1,0 +1,18 @@
+ 
+5. Explain the rationale behind the principle “code a little, test a little” for developing web pages with HTML and programming with JavaScript.
+
+The complete priciple is as follows which is proposed by great developers:-
+
+Code a Little,
+Test a Little,
+Rest a Little,
+And Loop again
+
+it means the following to a developer who make web pages-
+
+write a small test
+watch it fail
+write just enough code to make it succeed
+watch it succeed
+repeat
+The rationale behind it is It increases the productivity of the programmer and the stability of program code, which in turn reduces the stress on the programmer and the time spent on debugging. Basically it is the most efficient/time consuming/less stress way of writing code in web developement.

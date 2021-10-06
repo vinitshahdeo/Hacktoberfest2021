@@ -109,3 +109,8 @@
 | 106. | [heloworld.xyz 👋](https://github.com/devstrons/heloworld.xyz) | [[BUG] Main webpage throws warnings](https://github.com/devstrons/heloworld.xyz/issues/68) | `Javascript` `Tailwind CSS` `website` |
 | 107. | [heloworld.xyz 👋](https://github.com/devstrons/heloworld.xyz) | [[BUG] Refresh animation hidden behind "Contribute" button](https://github.com/devstrons/heloworld.xyz/issues/69) | `Javascript` `Tailwind CSS` `website` |
 | 108. | [Machine Learning Minor Projects](https://github.com/Abhinav-26/Machine-Learning-Minor-Projects) | [[ENHANCEMENT] Organise the projects under appropriate topics](https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/issues) | `Python3` |
+| 109. | [SoPhish](https://github.com/omkar787/SoPhish/) | [ Facebook login page](https://github.com/omkar787/SoPhish/issues/3) | `HTML` `CSS`|
+| 110. | [SoPhish](https://github.com/omkar787/SoPhish/) | [ Twitter login page](https://github.com/omkar787/SoPhish/issues/7) | `HTML` `CSS`|
+| 111. | [SoPhish](https://github.com/omkar787/SoPhish/) | [ Google login page](https://github.com/omkar787/SoPhish/issues/4) | `HTML` `CSS`|
+| 112. | [SoPhish](https://github.com/omkar787/SoPhish/) | [ LinkedIn login page](https://github.com/omkar787/SoPhish/issues/2) | `HTML` `CSS`|
+| 113. | [SoPhish](https://github.com/omkar787/SoPhish/) | [ Instagram login page](https://github.com/omkar787/SoPhish/issues/1) | `HTML` `CSS`|

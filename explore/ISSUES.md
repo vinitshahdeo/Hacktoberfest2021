@@ -109,3 +109,4 @@
 | 106. | [heloworld.xyz 👋](https://github.com/devstrons/heloworld.xyz) | [[BUG] Main webpage throws warnings](https://github.com/devstrons/heloworld.xyz/issues/68) | `Javascript` `Tailwind CSS` `website` |
 | 107. | [heloworld.xyz 👋](https://github.com/devstrons/heloworld.xyz) | [[BUG] Refresh animation hidden behind "Contribute" button](https://github.com/devstrons/heloworld.xyz/issues/69) | `Javascript` `Tailwind CSS` `website` |
 | 108. | [Machine Learning Minor Projects](https://github.com/Abhinav-26/Machine-Learning-Minor-Projects) | [[ENHANCEMENT] Organise the projects under appropriate topics](https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/issues) | `Python3` |
+| 109. | [hacktoberfest-issue-hunt](https://github.com/vinitshahdeo/hacktoberfest-issue-hunt) | [Create a React App to filter Hacktoberfest issues on the basis of languages and labels](https://github.com/vinitshahdeo/hacktoberfest-issue-hunt/issues/1)  | `React` |

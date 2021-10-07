@@ -10,6 +10,9 @@
 
 👉 **Kindly [submit your details](https://forms.gle/GJSUTPBJ4Rw4DTMk9) if you're beginner who's looking for a mentor**. 🌈
 
+👉 **[Win exciting goodies(GitHub stickers)](https://github.com/vinitshahdeo/hacktoberfest-issue-hunt/discussions/3) by building an application**. 🚨
+
+
 ### Quick Links
 
 | EXPLORE  | CONNECT | BLOG POSTS  | MEDIA ASSETS  |

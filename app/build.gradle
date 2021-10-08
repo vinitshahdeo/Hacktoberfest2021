@@ -17,6 +17,7 @@ plugins {
 repositories {
     // Use Maven Central for resolving dependencies.
     mavenCentral()
+    maven { url "https://maven.pkg.jetbrains.space/public/p/kotlinx-html/maven" }
 }
 
 dependencies {
@@ -37,6 +38,10 @@ dependencies {
 
     // Markdown parser
     implementation 'org.jetbrains:markdown-jvm:0.2.3'
+
+    // include for JVM target
+    implementation("org.jetbrains.kotlinx:kotlinx-html-jvm:0.7.3")
+    implementation("org.jetbrains.kotlin-wrappers:kotlin-css-jvm:1.0.0-pre.254-kotlin-1.5.31")
 }
 
 application {

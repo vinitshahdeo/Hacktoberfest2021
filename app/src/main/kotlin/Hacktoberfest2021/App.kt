@@ -3,6 +3,10 @@
  */
 package Hacktoberfest2021
 
+import kotlinx.css.*
+import kotlinx.css.properties.border
+import kotlinx.html.*
+import kotlinx.html.stream.appendHTML
 import org.intellij.markdown.flavours.commonmark.CommonMarkFlavourDescriptor
 import org.intellij.markdown.html.HtmlGenerator
 import org.intellij.markdown.parser.MarkdownParser
@@ -20,6 +24,7 @@ data class Issue(
 
 
 class App {
+
     fun getIssueRepository(): List<Repository> {
         val markdownContent = File("explore/ISSUES.md").readText()
         val flavour = CommonMarkFlavourDescriptor()
@@ -65,15 +70,6 @@ class App {
     fun getLanguages() = getIssueRepository().flatMap { it.issues }
         .flatMap { it.language }
         .map { it.toLowerCase() }
-        .map { lang ->
-            return@map when {
-                lang.contains("js") || lang.contains("ecma") || lang.contains("javascript") -> "javascript"
-                lang.contains("ts") || lang.contains("typescript") -> "typescript"
-                lang.contains("node") -> "nodejs"
-                lang.contains("react") -> "react + react-native"
-                else -> lang
-            }
-        }
         .toSet()
         .toList()
 
@@ -92,7 +88,207 @@ class App {
     }
 
     fun generateMarkDown(directories: List<File>, repository: List<Repository>) {
+        val stylesDir = File("explore/.meta")
+        if (!stylesDir.exists()) {
+            stylesDir.mkdirs()
+        }
+        val style = CssBuilder().apply {
+            body {
+                backgroundColor = Color("#f3f0e0")
+                margin(20.px)
+                padding(20.px)
+            }
 
+            table {
+                padding(20.px)
+                width = 100.pct
+                borderCollapse = BorderCollapse.collapse
+            }
+
+            th {
+                border(
+                    width = 1.px,
+                    style = BorderStyle.solid,
+                    color = Color.black
+                )
+                textAlign = TextAlign.left
+                margin(8.px)
+                backgroundColor = Color("#dddddd")
+                color = Color("#101010")
+            }
+
+            td {
+                border(
+                    width = 1.px,
+                    style = BorderStyle.solid,
+                    color = Color("#dddddd")
+                )
+                textAlign = TextAlign.left
+                margin(8.px)
+                color = Color("#008080")
+            }
+
+            em {
+                margin(4.px)
+            }
+
+            (".center"){
+                display = Display.block
+                marginLeft = LinearDimension.auto
+                marginRight = LinearDimension.auto
+                width = 50.pct
+            }
+
+        }.toString()
+        File(stylesDir.absolutePath + "${File.separator}style.css").writeText(style)
+        directories.forEach {
+            val html = buildString {
+                appendHTML(false).html {
+                    appendLine("<!DOCTYPE html>")
+                    head {
+                        title {
+                            +"Hacktoberfest 2021 Issues"
+                        }
+                        link {
+                            href = "../../.meta/style.css"
+                            rel = "stylesheet"
+                        }
+                    }
+                    body {
+                        img {
+                            src = "../../.meta/logo.png"
+                            classes = setOf("center")
+                        }
+                        h1 { +it.nameWithoutExtension.capitalize() }
+                        h4 {
+                            em { +"This is a generated file from " }
+                            a {
+                                href = "../../ISSUES.md"
+                                +"ISSUES"
+                            }
+                            em { +" kindly don't delete it" }
+                            em {
+                                +"- Automation script by "
+                                a {
+                                    href = "https://chetangupta.net/about"
+                                    target = "_blank"
+                                    +"Chetan Gupta"
+                                }
+                            }
+                        }
+                        table {
+                            tr {
+                                th { +"Serial No." }
+                                th { +"Issue" }
+                                th { +"Repository" }
+                                th { +"Language" }
+                            }
+                            val issues = mutableListOf<Pair<Issue, Repository>>()
+                            val filename = it.nameWithoutExtension
+                            repository.forEachIndexed { index, repo ->
+                                repo.issues.fold(issues) { acc, _issue ->
+                                    val belongs = filename in _issue.language.map { it.toLowerCase() }
+                                    if (belongs) {
+                                        acc.add(_issue to repo)
+                                    }
+                                    return@fold acc
+                                }
+                            }
+
+                            issues.forEachIndexed { index, _issue ->
+                                val (issueUrl, issueName) = _issue.first.issue
+                                tr {
+                                    td {
+                                        +"${index + 1}"
+                                    }
+                                    td {
+                                        a {
+                                            href = issueUrl
+                                            target = "_blank"
+                                            +issueName
+                                        }
+                                    }
+                                    td {
+                                        a {
+                                            val (repoUrl, repoName) = _issue.second.repository
+                                            href = repoUrl
+                                            target = "_blank"
+                                            +repoName
+                                        }
+                                    }
+                                    td {
+                                        _issue.first.language.forEach {
+                                            em { +it }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            File(it.absolutePath + "${File.separator}index.html").writeText(html)
+        }
+    }
+
+    fun generateExploreMarkDown(directories: List<File>) {
+        val html = buildString {
+            appendHTML(false).html {
+                appendLine("<!DOCTYPE html>")
+                head {
+                    title {
+                        +"Hacktoberfest 2021 Explor"
+                    }
+                    link {
+                        href = ".meta/style.css"
+                        rel = "stylesheet"
+                    }
+                }
+                body {
+                    img {
+                        src = ".meta/logo.png"
+                        classes = setOf("center")
+                    }
+                    h4 {
+                        em { +"This is a generated file from " }
+                        a {
+                            href = "../../ISSUES.md"
+                            +"ISSUES"
+                        }
+                        em { +" kindly don't delete it" }
+                        em {
+                            +"- Automation script by "
+                            a {
+                                href = "https://chetangupta.net/about"
+                                target = "_blank"
+                                +"Chetan Gupta"
+                            }
+                        }
+                    }
+                    table {
+                        tr {
+                            th { +"Serial No." }
+                            th { +"Technology" }
+                        }
+                        directories.forEachIndexed { index, file ->
+                            tr {
+                                td {
+                                    +"${index + 1}"
+                                }
+                                td {
+                                    a {
+                                        href = file.path
+                                        target = "_blank"
+                                        +file.nameWithoutExtension.capitalize()
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        File("explore/explore.html").writeText(html)
     }
 }
 
@@ -101,6 +297,7 @@ fun main() {
     val repos = app.getIssueRepository()
     val directories = app.createOrGetDirectories()
     app.generateMarkDown(directories, repos)
+    app.generateExploreMarkDown(directories)
 }
 
 fun parseLink(input: String): Pair<String, String> {
@@ -115,3 +312,4 @@ fun parseCode(input: String): String {
     val (third, fourth) = sec.split("</code>")
     return third
 }
+

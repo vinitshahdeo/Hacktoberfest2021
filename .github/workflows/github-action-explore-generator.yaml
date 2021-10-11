@@ -9,3 +9,9 @@ jobs:
         run: chmod a+x ./script/playground.main.kts
       - name: Running Kotlin Script
         run: ./script/playground.main.kts
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automated Commit for Issue Markdown
+          skip_fetch: true
+

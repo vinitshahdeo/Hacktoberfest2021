@@ -17,6 +17,6 @@ jobs:
           git commit -m "Automated Generated Issues Markdown"
       - name: Push Automated changes
       - uses: EndBug/add-and-commit@v7
-          with:
-            push: true
+        with:
+          push: true
 

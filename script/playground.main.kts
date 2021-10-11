@@ -46,7 +46,8 @@ fun parseCode(input: String): String {
 }
 
 fun getIssueRepository(): List<Repository> {
-    val markdownContent = File("../explore/ISSUES.md").readText()
+    File("").absolutePath.also(::println)
+    val markdownContent = File("explore/ISSUES.md").readText()
     val flavour = CommonMarkFlavourDescriptor()
     val parsedTree = MarkdownParser(flavour).buildMarkdownTreeFromString(markdownContent)
     val html = parsedTree.children.flatMap { it.children }

@@ -1,0 +1,11 @@
+name: Action to Generating Issues Markdown
+on: [ push ]
+jobs:
+  generate_html:
+    runs-on: [ ubuntu-latest ]
+    steps:
+      - uses: actions/checkout@v2
+      - name: making kotlin script runnable
+        run: chmod a+x ./script/playground.main.kts
+      - name: Running Kotlin Script
+        run: ./script/playground.main.kts

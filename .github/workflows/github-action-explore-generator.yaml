@@ -9,13 +9,13 @@ jobs:
         run: chmod a+x ./script/playground.main.kts
       - name: Running Kotlin Script
         run: ./script/playground.main.kts
-      - name: Commiting generated files
-        run: |
-          git config --local user.email "chetan.garg36@gmail.com"
-          git config --local user.name "ch8n"
-          git add .
-          git commit -m "Automated Generated Issues Markdown"
-      - uses: EndBug/add-and-commit@v7
-        with:
-          push: true
+      - name: Pushing generated files
+          - uses: EndBug/add-and-commit@v7
+            with:
+              author_name: "ch8n"
+              author_email: chetan.garg36@gmail.com
+              add: '.'
+              message: 'Automated Added ISSUE Markdowns'
+              push: true
+
 

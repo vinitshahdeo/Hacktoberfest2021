@@ -10,12 +10,12 @@ jobs:
       - name: Running Kotlin Script
         run: ./script/playground.main.kts
       - name: Pushing generated files
-          - uses: EndBug/add-and-commit@v7
-            with:
-              author_name: "ch8n"
-              author_email: chetan.garg36@gmail.com
-              add: '.'
-              message: 'Automated Added ISSUE Markdowns'
-              push: true
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: "ch8n"
+          author_email: chetan.garg36@gmail.com
+          add: '.'
+          message: 'Automated Added ISSUE Markdowns'
+          push: true
 
 

@@ -1,2 +1,0 @@
-<!DOCTYPE html>
-<html><head><title>Hacktoberfest 2021 Issues</title><link href="../../.meta/style.css" rel="stylesheet"></head><body><img src="../../.meta/logo.png" class="center"><h1>Node</h1><h4><em>This is a generated file from </em><a href="../../ISSUES.md">ISSUES</a><em> kindly don't delete it</em><em>- Automation script by <a href="https://chetangupta.net/about" target="_blank">Chetan Gupta</a></em></h4><table><tr><th>Serial No.</th><th>Issue</th><th>Repository</th><th>Language</th></tr></table></body></html>

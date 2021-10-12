@@ -175,7 +175,7 @@ fun generateMarkDown(directories: List<File>, repository: List<Repository>) {
                 }
                 body {
                     img {
-                        src = "../../.meta/logo.png"
+                        src = "https://github.com/ch8n/Hacktoberfest2021/blob/main/assets/logo.png?raw=true"
                         classes = setOf("center")
                     }
                     h1 { +it.nameWithoutExtension.replaceFirstChar { it.titlecase() } }
@@ -265,7 +265,7 @@ fun generateExploreMarkDown(directories: List<File>) {
             }
             body {
                 img {
-                    src = ".meta/logo.png"
+                    src = "https://github.com/ch8n/Hacktoberfest2021/blob/main/assets/logo.png?raw=true"
                     classes = setOf("center")
                 }
                 h4 {

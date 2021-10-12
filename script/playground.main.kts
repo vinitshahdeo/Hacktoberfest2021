@@ -95,7 +95,7 @@ fun getLanguages(repos: List<Repository>) = repos.flatMap { it.issues }
     .toList()
 
 fun createOrGetDirectories(language: List<String>): List<File> {
-    val exploreDirectory = File("../explore").absolutePath
+    val exploreDirectory = File("explore").absolutePath
     val directories = language.map {
         val folder = File("$exploreDirectory${File.separator}issues${File.separator}$it")
         if (!folder.exists()) {
@@ -107,7 +107,7 @@ fun createOrGetDirectories(language: List<String>): List<File> {
 }
 
 fun generateMarkDown(directories: List<File>, repository: List<Repository>) {
-    val stylesDir = File("../explore/.meta")
+    val stylesDir = File("explore/.meta")
     if (!stylesDir.exists()) {
         stylesDir.mkdirs()
     }
@@ -307,7 +307,7 @@ fun generateExploreMarkDown(directories: List<File>) {
             }
         }
     }
-    File("../explore/explore.html").writeText(html)
+    File("explore/explore.html").writeText(html)
 }
 
 println("###### Parsing issues and repository ######")

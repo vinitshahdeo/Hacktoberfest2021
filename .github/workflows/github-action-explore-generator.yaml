@@ -1,5 +1,8 @@
 name: Action to Generating Issues Markdown
-on: [ push ]
+on:
+  pull_request:
+    branches:
+      - main
 jobs:
   generate_html:
     runs-on: [ ubuntu-latest ]

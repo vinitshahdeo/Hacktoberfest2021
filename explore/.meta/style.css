@@ -1,0 +1,32 @@
+body {
+background-color: #f3f0e0;
+margin: 20px;
+padding: 20px;
+}
+table {
+padding: 20px;
+width: 100%;
+border-collapse: collapse;
+}
+th {
+border: 1px solid black;
+text-align: left;
+margin: 8px;
+background-color: #dddddd;
+color: #101010;
+}
+td {
+border: 1px solid #dddddd;
+text-align: left;
+margin: 8px;
+color: #008080;
+}
+em {
+margin: 4px;
+}
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}

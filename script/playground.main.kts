@@ -290,7 +290,7 @@ fun generateExploreMarkDown(directories: List<File>) {
                             }
                             td {
                                 a {
-                                    href = file.path
+                                    href = "${file.path.split("/").drop(5).joinToString("/")}/index.md"
                                     target = "_blank"
                                     +file.nameWithoutExtension.replaceFirstChar { it.titlecase() }
                                 }

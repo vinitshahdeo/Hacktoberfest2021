@@ -165,9 +165,6 @@ fun generateMarkDown(directories: List<File>, repository: List<Repository>) {
             appendHTML(false).html {
                 appendLine("<!DOCTYPE html>")
                 head {
-                    title {
-                        +"Hacktoberfest 2021 Issues"
-                    }
                     link {
                         href = "../../.meta/style.css"
                         rel = "stylesheet"
@@ -255,9 +252,6 @@ fun generateExploreMarkDown(directories: List<File>) {
         appendHTML(false).html {
             appendLine("<!DOCTYPE html>")
             head {
-                title {
-                    +"Hacktoberfest 2021 Explor"
-                }
                 link {
                     href = ".meta/style.css"
                     rel = "stylesheet"

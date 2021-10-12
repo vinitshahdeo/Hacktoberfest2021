@@ -70,10 +70,15 @@ fun getIssueRepository(): List<Repository> {
         while (lines.getOrNull(endIndex)?.contains("<code>") == true) {
             endIndex += 1
         }
-        val lang = (startIndex until endIndex).map {
-            parseCode(lines.get(it))
+        val lang = mutableListOf<String>()
+        if (startIndex == endIndex){
+            lang.add(parseCode(lines.get(endIndex+1)))
+        }else{
+            (startIndex until endIndex).map {
+                lang.add(parseCode(lines.get(it)))
+            }
         }
-        Issue(issue, lang.toMutableList())
+        Issue(issue, lang)
     }
 
     val repoLink = mutableListOf<Repository>()
@@ -96,6 +101,10 @@ fun getLanguages(repos: List<Repository>) = repos.flatMap { it.issues }
 
 fun createOrGetDirectories(language: List<String>): List<File> {
     val exploreDirectory = File("explore").absolutePath
+    val issues = File("$exploreDirectory${File.separator}issues")
+    issues.deleteRecursively().also {
+        println("#### RESET ISSUE : $it #####")
+    }
     val directories = language.map {
         val folder = File("$exploreDirectory${File.separator}issues${File.separator}$it")
         if (!folder.exists()) {
@@ -283,7 +292,7 @@ fun generateExploreMarkDown(directories: List<File>) {
                         th { +"Serial No." }
                         th { +"Technology" }
                     }
-                    directories.forEachIndexed { index, file ->
+                    directories.sortedBy { it.name }.forEachIndexed { index, file ->
                         tr {
                             td {
                                 +"${index + 1}"
@@ -292,7 +301,7 @@ fun generateExploreMarkDown(directories: List<File>) {
                                 a {
                                     href = "${file.path.split("/").drop(7).joinToString("/")}/index.md"
                                     target = "_blank"
-                                    +file.nameWithoutExtension.replaceFirstChar { it.titlecase() }
+                                    +file.name.replaceFirstChar { it.titlecase() }
                                 }
                             }
                         }

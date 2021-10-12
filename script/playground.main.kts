@@ -246,7 +246,7 @@ fun generateMarkDown(directories: List<File>, repository: List<Repository>) {
                 }
             }
         }
-        File(it.absolutePath + "${File.separator}index.html").writeText(html)
+        File(it.absolutePath + "${File.separator}index.md").writeText(html)
     }
 }
 
@@ -307,7 +307,7 @@ fun generateExploreMarkDown(directories: List<File>) {
             }
         }
     }
-    File("explore/explore.html").writeText(html)
+    File("explore/explore.md").writeText(html)
 }
 
 println("###### Parsing issues and repository ######")

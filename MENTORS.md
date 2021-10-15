@@ -200,5 +200,7 @@
 | 196. | Namanjeet Singh | 🐦[Twitter](https://twitter.com/Official_NMN) <br> 🎓 [LinkedIn](https://www.linkedin.com/in/namanjeet-singh-86202917a/) | [@OfficialNMN](https://github.com/OfficialNMN)      | Technical Content Writer @ InterviewBit |
 | 197. | Mahesh Dattatraya Babar | 🐦[Twitter](https://twitter.com/MaheshB16823448) <br> 🎓 [LinkedIn](https://www.linkedin.com/in/mahesh9340/) | [@maheshdbabar9340](https://github.com/maheshdbabar9340)      | Incoming Framework Engineer at Quantiphi & Member of Google Developers Group GDG Mumbai, GoogleCloudFacilitator2021 | 
 | 198. | Syeda Reeha Quasar | 🐦[Twitter](https://twitter.com/QuasarReeha) <br> 🎓 [LinkedIn](https://www.linkedin.com/in/syeda-reeha-quasar/) | [@syedareehaquasar](https://github.com/syedareehaquasar)      |  Incoming SWE Intern and former STEP Intern @Google, #IamRemarkable facilitator, MLSA, Supervisor IP @GWoC, Sr. ML Developer @GDSC, so much more....|
-| 199. | Sumit Parakh | 🐦[Twitter](https://twitter.com/sumitparak) | [@sumitparakh](https://github.com/sumitparakh)      | Sr. Software Engineer |
+| 199. | Andiani Putri | 🐦[Twitter](https://twitter.com/iniakunangle) <br> 🎓 [LinkedIn](https://www.linkedin.com/in/andianiputri/) | [@syedareehaquasar](https://github.com/andianiputri)      |  Incoming SWE Intern and former STEP Intern @Google, #IamRemarkable facilitator, MLSA, Supervisor IP @GWoC, Sr. ML Developer @GDSC, so much more....|
+| 200. | Sumit Parakh | 🐦[Twitter](https://twitter.com/sumitparak) | [@sumitparakh](https://github.com/sumitparakh)      | Sr. Software Engineer |
  
+

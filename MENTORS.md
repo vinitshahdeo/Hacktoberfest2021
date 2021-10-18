@@ -202,5 +202,5 @@
 | 198. | Syeda Reeha Quasar | 🐦[Twitter](https://twitter.com/QuasarReeha) <br> 🎓 [LinkedIn](https://www.linkedin.com/in/syeda-reeha-quasar/) | [@syedareehaquasar](https://github.com/syedareehaquasar)      |  Incoming SWE Intern and former STEP Intern @Google, #IamRemarkable facilitator, MLSA, Supervisor IP @GWoC, Sr. ML Developer @GDSC, so much more....|
 | 199. | Andiani Putri | 🐦[Twitter](https://twitter.com/iniakunangle) <br> 🎓 [LinkedIn](https://www.linkedin.com/in/andianiputri/) | [@syedareehaquasar](https://github.com/andianiputri)      |  Incoming SWE Intern and former STEP Intern @Google, #IamRemarkable facilitator, MLSA, Supervisor IP @GWoC, Sr. ML Developer @GDSC, so much more....|
 | 200. | Sumit Parakh | 🐦[Twitter](https://twitter.com/sumitparak) | [@sumitparakh](https://github.com/sumitparakh)      | Sr. Software Engineer |
- 
+ | 201. | Sarfaraz Ahmed Khan | 🎓 [LinkedIn](https://www.linkedin.com/in/sarfaraz-ahmed-b2415b16b) | [@sarfarazahmedkhan](https://github.com/SarfarazAhmedKhan)      | Software Engineer |
 

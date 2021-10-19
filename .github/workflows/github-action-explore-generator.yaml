@@ -1,0 +1,24 @@
+name: Action to Generating Issues Markdown
+on:
+  pull_request:
+    branches:
+      - main
+jobs:
+  generate_html:
+    runs-on: [ ubuntu-latest ]
+    steps:
+      - uses: actions/checkout@v2
+      - name: making kotlin script runnable
+        run: chmod a+x ./script/playground.main.kts
+      - name: Running Kotlin Script
+        run: ./script/playground.main.kts
+      - name: Pushing generated files
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: "ch8n"
+          author_email: chetan.garg36@gmail.com
+          add: '.'
+          message: 'Automated Added ISSUE Markdowns'
+          push: true
+
+

@@ -1,0 +1,19 @@
+# Now let’s see how to create a QR Code with Python programming language:
+
+qrcode.py
+
+
+import pyqrcode 
+from pyqrcode import QRCode
+
+
+# String which represent the QR code 
+s = "https://www.youtube.com/channel/UCeO9hPCfRzqb2yTuAn713Mg"
+  
+# Generate QR code 
+url = pyqrcode.create(s) 
+  
+# Create and save the png file naming "myqr.png" 
+url.svg("myyoutube.svg", scale = 8) 
+
+I hope you liked this article on how to generate a QR Code with Python. Feel free to ask your valuable questions in the comments section below.

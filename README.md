@@ -6,7 +6,7 @@
 
 > ### A community-led mentorship [initiative](https://dev.to/vinitshahdeo/calling-out-beginners-for-a-community-led-mentorship-opportunity-for-hacktoberfest-16gh) to help beginners kickstarting their open-source journey by completing Hacktoberfest'21 challenge.
 
-👉 **How can you [get on board as a mentor](https://vinitshahdeo.dev/hacktoberfest-2021).** ✨
+👉 **How can you [get on board as a mentor](https://vinitshahdeo.dev/hacktoberfest-2021).** ✨:).
 
 👉 **Kindly [submit your details](https://forms.gle/GJSUTPBJ4Rw4DTMk9) if you're beginner who's looking for a mentor**. 🌈
 

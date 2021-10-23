@@ -41,7 +41,7 @@ If you are a beginner, the [mentors](./MENTORS.md) will guide you on getting sta
 
 ❯ [Request an event](https://github.com/vinitshahdeo/Hacktoberfest2021/issues/new?assignees=vinitshahdeo&labels=event-request&template=event-request.md&title=Request+for+an+event) ⭐
 
-Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) challenge!
+Hope we can help each other in completing the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) challenge!
 
 ## Beginner-friendly issues
 

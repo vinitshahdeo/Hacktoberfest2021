@@ -203,4 +203,5 @@
 | 199. | Andiani Putri | 🐦[Twitter](https://twitter.com/iniakunangle) <br> 🎓 [LinkedIn](https://www.linkedin.com/in/andianiputri/) | [@syedareehaquasar](https://github.com/andianiputri)      |  Incoming SWE Intern and former STEP Intern @Google, #IamRemarkable facilitator, MLSA, Supervisor IP @GWoC, Sr. ML Developer @GDSC, so much more....|
 | 200. | Sumit Parakh | 🐦[Twitter](https://twitter.com/sumitparak) | [@sumitparakh](https://github.com/sumitparakh)      | Sr. Software Engineer |
  | 201. | Sarfaraz Ahmed Khan | 🎓 [LinkedIn](https://www.linkedin.com/in/sarfaraz-ahmed-b2415b16b) | [@sarfarazahmedkhan](https://github.com/SarfarazAhmedKhan)      | Software Engineer |
+ | 202. | Jenna | 🐦[Twitter](https://twitter.com/jenna1504) <br/> 🎓 [LinkedIn](https://www.linkedin.com/in/jenna-1504/) | [@jenna1504](https://github.com/GenieCode) | Open-Source Activist |
 

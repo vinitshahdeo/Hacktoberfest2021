@@ -1,9 +1,9 @@
 ### Provide your information
 
-- Name: <Add your name here>
-- LinkedIn: <Add link to your Linkedin profile>
-- Twitter: <Add link to your Twitter profile>
-- About: <Short bio about you>
+- Name: Palak Bhogra
+- LinkedIn: https://www.linkedin.com/in/palak-bhogra-8b92791bb
+- Twitter: https://twitter.com/Palak889
+- About: Hi I'm a beginner in contributing in open-source projects.
 
 ### Why do you want to become a mentor (optional)
 

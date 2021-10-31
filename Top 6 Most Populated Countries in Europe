@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 2px solid DodgerBlue;
+
+}
+
+</style>
+</head>
+<body style="background-color:powderblue;"> 
+
+<p style="color:SlateBlue; text-align: center"<span style='font-size:100px;'>&#127758;</span>Top 6 Most Populated Countries in Europe!</p<span style='font-size:100px;'>&#127758;</span>
+
+</body>
+</html>
+
+<table style="width:100%">
+  <tr>
+    <th style="color:Violet;">Countries:</th>
+    <th style="color:Violet;">Images:</th>
+    <th style="color:Violet;">Description:</th>
+  </tr>
+  <tr>
+    <td style="color:DodgerBlue;">1) Germany</td>
+<td> <img src="https://www.studying-in-germany.org/wp-content/uploads/2018/07/German-Culture-and-Traditions.jpg" width="200" height="150"> </td>
+    
+    <td style="color:PaleVioletRed;">Germany holds the population of 83,783,942 with a yearly change of 0.32%.</td>
+  </tr>
+  <tr>
+    <td style="color:DodgerBlue;">2) France</td>
+    <td> <img src="https://freedomhouse.org/sites/default/files/styles/768x400_fp_scale_crop_/public/2019-10/France_notre_dame_shutterstock_113889787.jpg?h=99816518&itok=Ld5bk8y0" width="200" height="150"> </td>
+    
+    <td style="color:PaleVioletRed;">France holds the population of 65,273,511 following with a yearly change of 0.22%.</td>
+  </tr>
+  <tr>
+    <td style="color:DodgerBlue;">3) Italy</td>
+    <td> <img src="https://theangelagrace.co.uk/numbersquash/wp-content/uploads/2019/05/Itlay.jpg" width="200" height="150"> </td>
+    
+    
+    <td style="color:PaleVioletRed;">Italy has a population of 60,461,826 and a yearly change of -0.15%.</td>
+  </tr>
+  <tr>
+  	<td style="color:DodgerBlue;">4) Spain</td>
+    <td> <img src="https://afar-production.imgix.net/uploads/images/afar_post_headers/images/DDfaPdvefN/original_shutterstock_432201088.jpg" width="200" height="150" </td>
+    
+    
+    <td style="color:PaleVioletRed;">Spain holds the population of 46,754,778 with a yearly change of 0.04%.</td>
+  </tr>
+  <tr>
+  	<td style="color:DodgerBlue;">5) Poland</td>
+    <td> <img src="https://www.themayor.eu/web/files/articles/7749/main_image/thumb_1200x630_aerial-view-old-town-warsaw-poland.jpg" width="200" height="150" </td>
+    
+    
+    <td style="color:PaleVioletRed;">Poland holds the population of 37,846,611 following with a yearly change of -0.11%.</td>
+  </tr>
+  <tr>
+  	<td style="color:DodgerBlue;">6) Romania</td>
+    <td> <img src="https://www.worldtravelguide.net/wp-content/uploads/2017/03/shu-Romania-Transylvania-Peles-494393290-1440x823.jpg" width="200" height="150" </td>
+    
+    
+    <td style="color:PaleVioletRed;">Romania has a population of 19,237,691 and a yearly change of -0.66%.</td>
+</table>
+
+</body>
+</html>
